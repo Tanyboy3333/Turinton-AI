@@ -1,0 +1,3152 @@
+{
+  "act_title": "THE CHARTERED ACCOUNTANTS ACT, 1949",
+  "act_number": "ACT NO. 38 OF 1949",
+  "act_enactment_date": "[1st May, 1949.]",
+  "act_preamble": "An Act to make provision for the regulation and development of the profession of chartered accountants. WHEREAS it is expedient to make provision for the regulation and development of the profession of chartered accountants and for that purpose to establish an Institute of Chartered Accountants; It is hereby enacted as follows:—",
+  "preamble_footnotes": [
+    {
+      "footnote_number": "1",
+      "footnote_text": "Subs. by Act 12 of 2022, s. 2, for \"regulation\" (w.e.f. 10-5-2022).",
+      "footnote_references": "regulation and development"
+    },
+    {
+      "footnote_number": "2",
+      "footnote_text": "Subs. by Act 15 of 1959, s. 2, for \"profession of accountants\" (w.e.f. 1-7-1959).",
+      "footnote_references": "profession of chartered accountants"
+    }
+  ],
+  "act_sections": [
+    {
+      "section_number": "1",
+      "section_heading": "Short title, extent and commencement",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by the A.O. 1950, for sub-section (2).",
+          "footnote_references": "sub-section (2)"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "The words \"except the State of Jammu and Kashmir\" omitted by Act 25 of 1968, s. 3 and the Schedule (w.e.f. 15-8-1968).",
+          "footnote_references": "except the State of Jammu and Kashmir"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "1st July, 1949, vide Notification No. I OA (4)/49, dated 1st June, 1949, see Gazette of India, Extraordinary, Part II, sec. 3(i) and this Act has been extended in its application to the union territory Goa, Daman and Diu by Act 11 of 1963, s. 3 and the Schedule (w.e.f. 1-2-1965).",
+          "footnote_references": "such date"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "This Act may be called the Chartered Accountants Act, 1949.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "It extends to the whole of India.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "2",
+      "section_heading": "Interpretation",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "6",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 2 (w.e.f. 8-8-2006).",
+          "footnote_references": "Authority and Board"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 3 (w.e.f. 10-5-2022).",
+          "footnote_references": "Board of Discipline and other definitions"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "The words \"and who is in practice\" omitted by Act 15 of 1959, s. 3 (w.e.f. 1-7-1959).",
+          "footnote_references": "chartered accountant definition"
+        },
+        {
+          "footnote_number": "9",
+          "footnote_text": "Ins. by Act 3 of 2012, s. 2 (w.e.f. 1-2-2012).",
+          "footnote_references": "firm definition"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "In this Act, unless there is anything repugnant in the subject or context,—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "\"associate\" means an associate member of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(aa)",
+              "clause_text": "\"Authority\" means the Appellate Authority constituted under section 22A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(aaa)",
+              "clause_text": "\"Board\" means the Quality Review Board constituted under section 28A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ab)",
+              "clause_text": "\"Board of Discipline\" means the Board of Discipline constituted under sub-section (1) of section 21A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "\"chartered accountant\" means a person who is a member of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ba)",
+              "clause_text": "\"Coordination Committee\" means the Coordination Committee constituted under section 9A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(bb)",
+              "clause_text": "\"Companies Act\" means the Companies Act, 2013 (18 of 2013) or any other previous company law as defined in clause (67) of section 2 of the said Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "\"Council\" means the Council of the Institute constituted under section 9;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ca)",
+              "clause_text": "\"firm\" shall have the meaning assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), and includes,—",
+              "clause_footnotes": [],
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "(i)",
+                  "sub_clause_text": "the limited liability partnership as defined in clause (n) of sub-section (1) of section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009); or",
+                  "sub_clause_footnotes": []
+                },
+                {
+                  "sub_clause_number": "(ii)",
+                  "sub_clause_text": "the sole proprietorship, registered with the Institute;",
+                  "sub_clause_footnotes": []
+                }
+              ]
+            },
+            {
+              "clause_number": "(cb)",
+              "clause_text": "\"Director (Discipline)\" means the Director (Discipline) referred to in section 21 and includes Joint Director (Discipline);",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(cc)",
+              "clause_text": "\"Disciplinary Committee\" means the Disciplinary Committee constituted under sub-section (1) of section 21B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(cd)",
+              "clause_text": "\"Disciplinary Directorate\" means the Disciplinary Directorate established under sub-section (1) of section 21;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ce)",
+              "clause_text": "\"fellow\" means a fellow member of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "\"holder of a restricted certificate\" means a person holding a permanent or temporary restricted certificate granted by a State Government under the Restricted Certificates Rules, 1932;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "\"Institute\" means the Institute of Chartered Accountants of India constituted under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ea)",
+              "clause_text": "\"notification\" means a notification published in the Official Gazette and the term \"notify\" shall be construed accordingly;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(eb)",
+              "clause_text": "\"partner\" shall have the meaning assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), or in clause (q) of sub-section (1) of section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009), as the case may be;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ec)",
+              "clause_text": "\"partnership\" means —",
+              "clause_footnotes": [],
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "(A)",
+                  "sub_clause_text": "a partnership as defined in section 4 of the Indian Partnership Act, 1932 (9 of 1932); or",
+                  "sub_clause_footnotes": []
+                },
+                {
+                  "sub_clause_number": "(B)",
+                  "sub_clause_text": "a limited liability partnership which has no company as its partner;",
+                  "sub_clause_footnotes": []
+                }
+              ]
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "\"prescribed\" means prescribed by regulations made under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(g)",
+              "clause_text": "\"Register\" means the Register of members of the Institute maintained under section 19 or the Register of firms of the Institute maintained under section 20B, as the case may be;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(h)",
+              "clause_text": "\"registered accountant\" means any person who has been enrolled on the Register of Accountants maintained by the Central Government under the Auditor's Certificates Rules, 1932;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ha)",
+              "clause_text": "\"specified\" means specified by rules made by the Central Government under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(haa)",
+              "clause_text": "\"sole proprietorship\" means an individual who engages himself in the practice of accountancy or offers to perform services referred to in clauses (ii) to (iv) of sub-section (2);",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(haaa)",
+              "clause_text": "\"Standing Committee\" means a Standing Committee constituted under sub-section (1) of section 17;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(hb)",
+              "clause_text": "\"Tribunal\" means a Tribunal established under sub-section (1) of section 10B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(i)",
+              "clause_text": "\"year\" means the period commencing on the 1st day of April of any year and ending on the 31st day of March of the succeeding year.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A member of the Institute shall be deemed \"to be in practice\" when individually or in partnership with chartered accountants in practice or in partnership with members of such other recognised professions as may be prescribed, he, in consideration of remuneration received or to be received—",
+          "subsection_footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_text": "Ins. by Act 15 of 1959, s. 3 (w.e.f. 1-7-1959).",
+              "footnote_references": "in practice"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_text": "Subs. by Act 3 of 2012, s. 2, for \"a firm of such chartered accountants\" (w.e.f. 1-2-2012).",
+              "footnote_references": "firm definition"
+            },
+            {
+              "footnote_number": "3",
+              "footnote_text": "Subs. by Act 9 of 2006, s. 2, for \"training of articled clerks\" (w.e.f. 8-8-2006).",
+              "footnote_references": "training of articled assistants"
+            }
+          ],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "engages himself in the practice of accountancy; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "offers to perform or performs services involving the auditing or verification of financial transactions, books, accounts, or records or the preparation, verification or certification of financial accounting and related statements or holds himself out to the public as an accountant; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iii)",
+              "clause_text": "renders professional services or assistance in or about matters of principle or detail relating to accounting procedure or the recording, presentation or certification of financial facts or data; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iv)",
+              "clause_text": "renders such other services as, in the opinion of the Council, are or may be rendered by a chartered accountant in practice; and the words \"to be in practice\" with their grammatical variations and cognate expressions shall be construed accordingly. Explanation.—An associate or a fellow of the Institute who is a salaried employee of a chartered accountant in practice or a firm of such chartered accountants or firm consisting of one or more chartered accountants and members of any other professional body having prescribed qualifications in practice shall, notwithstanding such employment, be deemed to be in practice for the limited purpose of the training of articled assistants.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "3",
+      "section_heading": "Incorporation of the Institute",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "All persons whose names are entered in the Register at the commencement of this Act and all persons who may hereafter have their names entered in the Register under the provisions of this Act, so long as they continue to have their names borne on the said Register, are hereby constituted a body corporate by the name of the Institute of Chartered Accountants of India, and all such persons shall be known as members of the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Institute shall have perpetual succession and a common seal and shall have power to acquire, hold and dispose of property, both movable and immoveable, and shall by its name sue or be sued.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "4",
+      "section_heading": "Entry of names in the Register of members",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 4, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Subs. by Act 40 of 1955, s. 2, for clause (v) (w.e.f. 21-10-1955).",
+          "footnote_references": "clause (v)"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 4, for \"without India\" (w.e.f. 10-5-2022).",
+          "footnote_references": "outside India"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Any of the following persons shall be entitled to have his name entered in the Register of members, namely,—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "any person who is a registered accountant or a holder of a restricted certificate at the commencement of this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "any person who has passed such examination and completed such training as may be prescribed for members of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iii)",
+              "clause_text": "any person who has passed the examination for the Government Diploma in Accountancy or an examination recognised as equivalent thereto by the rules for the award of the Government Diploma in Accountancy before the commencement of this Act, and who, although not duly qualified to be registered as an accountant under the Auditors' Certificates Rules, 1932, fulfils such conditions as the Central Government may specify in this behalf;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iv)",
+              "clause_text": "any person who, at the commencement of this Act, is engaged in the practice of accountancy in any Part B State and who, although not possessing the requisite qualifications to be registered as an accountant under the Auditors' Certificates Rules, 1932, fulfils such conditions as the Central Government may specify in this behalf;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(v)",
+              "clause_text": "any person who has passed such other examination and completed such other training outside India as is recognised by the Central Government or the Council as being equivalent to the examination and training prescribed for members of the Institute: Provided that in the case of any person who is not permanently residing in India, the Central Government or the Council, as the case may be, may impose such further conditions as it may deem fit;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(vi)",
+              "clause_text": "any person domiciled in India, who at the commencement of this Act is studying for any foreign examination and is at the same time undergoing training, whether within or outside India, or, who, having passed such foreign examination, is at the commencement of this Act undergoing training, whether within or without India: Provided that any such examination or training was recognised before the commencement of this Act for the purpose of conferring the right to be registered as an accountant under the Auditors' Certificates Rules, 1932, and provided further that such person passes the examination or completes the training within five years after the commencement of this Act.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Every person belonging to the class mentioned in clause (i) of sub-section (1) shall have his name entered in the Register of members without the payment of any entrance fee.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Every person belonging to any of the classes mentioned in clauses (ii), (iii), (iv), (v) and (vi) of sub-section (1) shall have his name entered in the Register of members on application being made and granted in the prescribed manner and on payment of such fees, as may be determined, by notification, by the Council.",
+          "subsection_footnotes": [
+            {
+              "footnote_number": "3",
+              "footnote_text": "Subs. by Act 9 of 2006, s. 3, for sub-section (3) (w.e.f. 8-8-2006).",
+              "footnote_references": "sub-section (3)"
+            },
+            {
+              "footnote_number": "4",
+              "footnote_text": "The words \", which shall not exceed rupees three thousand\" omitted by Act 12 of 2022, s. 4 (w.e.f. 10-5-2022).",
+              "footnote_references": "fee limit"
+            },
+            {
+              "footnote_number": "5",
+              "footnote_text": "The Proviso omitted by s. 4, ibid. (w.e.f. 10-5-2022).",
+              "footnote_references": "Proviso"
+            }
+          ],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The Central Government shall take such steps as may be necessary for the purpose of having the names of all persons belonging to the class mentioned in clause (i) of sub-section (1) entered in the Register of members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "5",
+      "section_heading": "Fellows and associates",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 5, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 4, for sub-section (3) (w.e.f. 8-8-2006).",
+          "footnote_references": "sub-section (3)"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "The words \"which shall not exceed rupees five thousand\" omitted by Act 12 of 2022, s. 5 (w.e.f. 10-5-2022).",
+          "footnote_references": "fee limit"
+        },
+        {
+          "footnote_number": "9",
+          "footnote_text": "The Proviso omitted by s. 5, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "Proviso"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The members of the Institute shall be divided into two classes designated respectively as associates and fellows.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Any person shall, on his name being entered in the Register of members, be deemed to have become an associate member of the Institute and be entitled to use the letters A. C. A. after his name to indicate that he is an associate member of the Institute of Chartered Accountants.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "A member, being an associate who has been in continuous practice in India for at least five years, whether before or after the commencement of this Act, or whether partly before and partly after the commencement of this Act, and a member who has been an associate for a continuous period of not less than five years and who possesses such qualifications as the Council may prescribe with a view to ensuring that he has experience equivalent to the experience normally acquired as a result of continuous practice for a period of five years as a chartered accountant shall, on payment of such fees, as may be determined, by notification, by the Council, and on application made and granted in the prescribed manner, be entered in the Register of members as a fellow of the Institute and shall be entitled to use the letters F. C. A. after his name to indicate that he is a fellow of the Institute of Chartered Accountants.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "6",
+      "section_heading": "Certificate of practice",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "10",
+          "footnote_text": "Ins. by Act 15 of 1959, s. 5 (w.e.f. 1-7-1959).",
+          "footnote_references": "whether in India or elsewhere"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 6, for sub-section (2) (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-section (2)"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 5 (w.e.f. 8-8-2006).",
+          "footnote_references": "sub-section (3)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No member of the Institute shall be entitled to practise whether in India or elsewhere unless he has obtained from the Council a certificate of practice:",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Every such member shall pay annual fee for the certificate as may be determined, by notification, by the Council, and such fee shall be payable on or before the 1st day of April each year:",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The certificate of practice obtained under sub-section (1) may be cancelled by the Council under such circumstances as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "7",
+      "section_heading": "Members to be known as Chartered Accountants",
+      "section_text": "Every member of the Institute in practice shall, and any other member may, use the designation of a chartered accountant and no member using such designation shall use any other description, whether in addition thereto or in substitution therefore: Provided that nothing contained in this section shall be deemed to prohibit any such person from adding any other description or letters to his name, if entitled thereto, to indicate membership of such other Institute of Accountancy, whether in India or elsewhere, as may be recognised in this behalf by the Council, or any other qualification that he may possess, or to prohibit a firm, all the partners of which are members of the Institute and in practice, from being known by its firm name as Chartered Accountants.",
+      "section_footnotes": [
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 6, for certain words (w.e.f. 1-7-1959).",
+          "footnote_references": "designation text"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "8",
+      "section_heading": "Disabilities",
+      "section_text": "Notwithstanding anything contained in section 4, a person shall not be entitled to have his name entered in or borne on the Register of members if he—",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 7, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 7, for clause (ii) (w.e.f. 1-7-1959).",
+          "footnote_references": "clause (ii)"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 7 (w.e.f. 10-5-2022).",
+          "footnote_references": "bankruptcy provisions"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by s. 7, ibid., for \"without India\" (w.e.f. 10-5-2022).",
+          "footnote_references": "outside India"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "The words \"transportation or\" omitted by s. 7, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "transportation"
+        },
+        {
+          "footnote_number": "9",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 7, for clause (vi) (w.e.f. 1-7-1959).",
+          "footnote_references": "clause (vi)"
+        }
+      ],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(i)",
+          "clause_text": "has not attained the age of twenty-one years at the time of his application for the entry of his name in the Register of members; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(ii)",
+          "clause_text": "is of unsound mind and stands so adjudged by a competent court; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(iii)",
+          "clause_text": "is an undischarged insolvent or an undischarged bankrupt; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(iiia)",
+          "clause_text": "is declared bankrupt under the Insolvency and Bankruptcy Code, 2016 (31 of 2016); or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(iv)",
+          "clause_text": "being a discharged insolvent, has not obtained from the Court a certificate stating that his insolvency was caused by misfortune without any misconduct on his part; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(v)",
+          "clause_text": "has been convicted by a competent Court, whether within or outside India, of an offence involving moral turpitude and punishable with imprisonment or of an offence, not of a technical nature, committed by him in his professional capacity unless in respect of the offence committed he has either been granted a pardon or, on an application made by him in this behalf, the Central Government has, by an order in writing, removed the disability; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(vi)",
+          "clause_text": "has been removed from membership of the Institute on being found on inquiry to have been guilty of professional or other misconduct: Provided that a person who has been removed from membership for a specified period, shall not be entitled to have his name entered in the Register of members until the expiry of such period.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "9",
+      "section_heading": "Constitution of the Council of the Institute",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "10",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 6, for sub-section (2) (w.e.f. 5-9-2006).",
+          "footnote_references": "sub-section (2)"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 8, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by s. 8, ibid., for \"three years\" (w.e.f. 10-5-2022).",
+          "footnote_references": "four years"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by s. 8, ibid., for \"six years\" (w.e.f. 10-5-2022).",
+          "footnote_references": "eight years"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 6 (w.e.f. 5-9-2006).",
+          "footnote_references": "sub-sections (3) and (4)"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 8, for \"person\" (w.e.f. 10-5-2022).",
+          "footnote_references": "member of the Institute or any partner of a firm"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by s. 8, ibid., for \"three years\" (w.e.f. 10-5-2022).",
+          "footnote_references": "four years"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "There shall be a Council of the Institute for the management of the affairs of the Institute and for discharging the functions assigned to it under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Council shall be composed of the following persons, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "not more than thirty-two persons elected by the members of the Institute from amongst the fellows of the Institute chosen in such manner and from such regional constituencies as may be specified: Provided that a fellow of the Institute, who has been found guilty of any professional or other misconduct and whose name is removed from the Register of members or has been awarded penalty of fine, shall not be eligible to contest the election,—",
+              "clause_footnotes": [],
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "(i)",
+                  "sub_clause_text": "in case of misconduct falling under the First Schedule of this Act, for a period of four years;",
+                  "sub_clause_footnotes": []
+                },
+                {
+                  "sub_clause_number": "(ii)",
+                  "sub_clause_text": "in case of misconduct falling under the Second Schedule of this Act, for a period of eight years, from the completion of the period of removal of name from the Register of members or payment of fine, as the case may be;",
+                  "sub_clause_footnotes": []
+                }
+              ]
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "not more than eight persons to be nominated in the specified manner, by the Central Government.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "No person holding a post under the Central Government or a State Government shall be eligible for election to the Council under clause (a) of sub-section (2).",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "No member of the Institute or any partner of a firm who has been auditor of the Institute shall be eligible for election to the Council under clause (a) of sub-section (2), for a period of four years after he ceases to be an auditor.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "9A",
+      "section_heading": "Coordination Committee",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "7",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 9 (w.e.f. 10-5-2022).",
+          "footnote_references": "section 9A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "There shall be a Coordination Committee consisting of the President, Vice-President and the Secretary of the Council of each of the Institutes of Chartered Accountants of India, the Cost Accountants of India and the Company Secretaries of India for the development and harmonisation of the professions of Chartered Accountants, Cost Accountants and Company Secretaries.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The meeting of the Coordination Committee shall be chaired by the Secretary, Ministry of Corporate Affairs.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The meeting of the Coordination Committee shall be held once in every quarter of a year.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The Committee shall be responsible for the effective coordination of the functions assigned to each Institute and shall––",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "ensure quality improvement of the academics, infrastructure, research and all related works of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "focus on the coordination and collaboration among the professions, to make the profession more effective and robust;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iii)",
+              "clause_text": "align the cross-disciplinary regulatory mechanisms for inter professional development;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iv)",
+              "clause_text": "make recommendations in matters relating to regulatory policies for the professions;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(v)",
+              "clause_text": "perform such other functions incidental to clauses (i) to (iv) above.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "10",
+      "section_heading": "Re-election or re-nomination to Council",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 7, for section 10 (w.e.f. 8-8-2006).",
+          "footnote_references": "section 10"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Section 10 shall be renumbered as sub-section (1) by Act 12 of 2022, s. 10 (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-section (1)"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by s. 10, ibid., for \"three consecutive terms\" (w.e.f. 10-5-2022).",
+          "footnote_references": "two consecutive terms"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by s. 10, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-section (2)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "A member of the Council, elected or nominated under sub-section (2) of section 9, shall be eligible for re-election or, as the case may be, re-nomination: Provided that no member shall hold the office for more than two consecutive terms: Provided further that a member of the Council, who is or has been elected as President under sub-section (1) of section 12, shall not be eligible for election or nomination as a member of the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Notwithstanding anything contained in sub-section (1), a member of the Council who immediately at the commencement of the Chartered Accountants, the Cost and Works Accountants and the Company Secretaries (Amendment) Act, 2022, has held office as such member for two terms or is holding office for the second term of three years, shall be eligible to contest for one more term of four years and a member who has held office for one term or is holding office for the first term of three years, shall be eligible to contest for two more consecutive terms.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "10A",
+      "section_heading": "Settlement of dispute regarding election",
+      "section_text": "In case of any dispute regarding any election under clause (a) of sub-section (2) of section 9, the aggrieved person may make an application within thirty days from the date of declaration of the result of election to the Secretary of the Institute, who shall forward the same to the Central Government.",
+      "section_footnotes": [
+        {
+          "footnote_number": "5",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 8 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 10A"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "10B",
+      "section_heading": "Establishment of Tribunal",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "On receipt of any application under section 10A, the Central Government shall, by notification, establish a Tribunal consisting of a Presiding Officer and two other Members to decide such dispute and the decision of such Tribunal shall be final.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A person shall not be qualified for appointment,—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "as a Presiding Officer of the Tribunal unless he has been a member of the Indian Legal Service and has held a post in Grade I of the service for at least three years;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "as a Member unless he has been a member of the Council for at least one full term and who is not a sitting member of the Council or who has not been a candidate in the election under dispute; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "as a Member unless he holds the post of a Joint Secretary to the Government of India or any other post under the Central Government carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The terms and conditions of service of the Presiding Officer and Members of the Tribunal, their place of meetings and allowances shall be such as may be specified.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The expenses of the Tribunal shall be borne by the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "11",
+      "section_heading": "Nomination in default of election or nomination",
+      "section_text": "If any body of persons referred to in section 9 fails to elect any of the members of the Council which it is empowered under that section to elect, the Central Government may nominate a person duly qualified to fill the vacancy, and any person so nominated shall be deemed to be a member of the Council as if he had been duly elected.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "12",
+      "section_heading": "President and Vice-President",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "6",
+          "footnote_text": "The Proviso omitted by Act 12 of 2022, s. 11 (w.e.f. 10-5-2022).",
+          "footnote_references": "Proviso"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by s. 11, ibid., for \"Chief Executive Authority\" (w.e.f.10-5-2022).",
+          "footnote_references": "Head"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 11 (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-sections (2A) to (2D)"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 9 (w.e.f. 8-8-2006).",
+          "footnote_references": "under sub-section (1)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council at its first meeting shall elect two of its members to be respectively the President and Vice President thereof, and so often as the office of the President or the Vice-President becomes vacant the Council shall choose another person to be the President or the Vice-President as the case may be:",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The President shall be the Head of the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2A)",
+          "subsection_text": "The President shall preside at the meetings of the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2B)",
+          "subsection_text": "The President and the Vice-resident shall exercise such powers and perform such duties and functions as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2C)",
+          "subsection_text": "It shall be the duty of the President to ensure that the decisions taken by the Council are implemented.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2D)",
+          "subsection_text": "If, for any reason a vacancy occurs in the office of the President, or if the President is absent or for any other reason, is unable to exercise the powers or perform the duties assigned to him, the Vice-President shall act in his place and exercise the powers and perform the duties of the President.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The President or the Vice-President shall hold office for a period of one year from the date on which he is chosen but so as not to extend beyond his term of office as, a member of the Council, and, subject to his being a member of the Council at the relevant time, he shall be eligible for re-election under sub-section (1).",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "On the expiration of the duration of the Council, the President and the Vice-President of the Council at the time of such expiration shall continue to hold office and discharge such administrative and other duties as may be prescribed until such time as a new President and the Vice-President shall have been elected and shall have taken over charge of their duties.",
+          "subsection_footnotes": [
+            {
+              "footnote_number": "3",
+              "footnote_text": "Subs. by Act 15 of 1959, s. 10, for \"On the Dissolution of the Council, the President of the Council at the time of such dissolution (w.e.f. 1-7-1959).",
+              "footnote_references": "On the expiration"
+            },
+            {
+              "footnote_number": "4",
+              "footnote_text": "Subs. by Act 9 of 2006, s. 9, for \"President\" (w.e.f. 8-8-2006).",
+              "footnote_references": "President and the Vice-President"
+            },
+            {
+              "footnote_number": "5",
+              "footnote_text": "Subs. by s. 9, ibid., for \"charge of his duties\" (w.e.f. 8-8-2006).",
+              "footnote_references": "charge of their duties"
+            }
+          ],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "13",
+      "section_heading": "Resignation of membership and casual vacancies",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "6",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 10 (w.e.f. 17-11-2006).",
+          "footnote_references": "penalty of fine"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 12, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "Added by Act 15 of 1959, s. 11 (w.e.f. 1-7-1959).",
+          "footnote_references": "Proviso"
+        },
+        {
+          "footnote_number": "9",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 10, for \"six months\" (w.e.f. 17-11-2006).",
+          "footnote_references": "one year"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Any member of the Council may at any time resign his membership by writing under his hand addressed to the President, and the seat of such member shall become vacant when such resignation is notified in the Official Gazette.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A member of the Council shall be deemed to have vacated his seat if he is declared by the Council to have been absent without sufficient excuse from three consecutive meetings of the Council, or he has been found guilty of any professional or other misconduct and awarded penalty of fine, or if his name is, for any cause, removed from the Register of members under the provisions of section 20.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "A casual vacancy in the Council shall be filled by fresh election from the constituency concerned or by nomination by the Central Government, as the case may be, and the person elected or nominated to fill the vacancy shall hold office until the dissolution of the Council: Provided that no election shall be held to fill a casual vacancy occurring within one year prior to the date of the expiration of the duration of the Council, but such a vacancy may be filled by nomination by the Central Government after consultation with the President of the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "No act done by the Council shall be called in question on the ground merely of the existence of any vacancy in, or defect in the constitution of, the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "14",
+      "section_heading": "Duration and dissolution of Council",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "10",
+          "footnote_text": "Section 14 re-numbered as sub-section (1) thereof by Act 15 of 1959, s. 12 (w.e.f. 1-7-1959).",
+          "footnote_references": "sub-section (1)"
+        },
+        {
+          "footnote_number": "11",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 13, for \"three years\" (w.e.f. 10-5-2022).",
+          "footnote_references": "four years"
+        },
+        {
+          "footnote_number": "12",
+          "footnote_text": "Ins. by Act 15 of 1959, s. 12 (w.e.f. 1-7-1959).",
+          "footnote_references": "sub-section (2)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The duration of any Council constituted under this Act shall be four years from the date of its first meeting, on the expiry of which it shall stand dissolved and a new Council constituted in accordance with the provisions of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Notwithstanding the expiration of the duration of a Council (hereinafter referred to as the former Council), the former Council shall continue to exercise its functions until a new Council is constituted in accordance with the provisions of this Act, and on such constitution, the former Council shall stand dissolved.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "15",
+      "section_heading": "Functions of Council",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 11, for section 15 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 15"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 14, for clauses (b) and (c) (w.e.f. 10-5-2022).",
+          "footnote_references": "clauses (b) and (c)"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by s. 14, ibid., for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by s. 14, ibid., for clause (f) (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (f)"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Clause (g) omitted by s. 14, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (g)"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "The words \"and collection\" omitted by s. 14, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "and collection"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Clause (i) omitted by s. 14, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (i)"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "Subs. by s. 14, ibid., for clause (l) (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (l)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Institute shall function under the overall control, guidance and supervision of the Council and the duty of carrying out the provisions of this Act shall be vested in the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular, and without prejudice to the generality of the foregoing powers, the duties of the Council shall include—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "to approve academic courses and their contents;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the prescribing of fees for the examination of candidates for enrolment;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the granting or refusal, of registration of a firm;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "the prescribing of qualifications for entry in the Register of members;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "the recognition of foreign qualifications and training for the purposes of enrolment;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "the prescribing of guidelines for grant or refusal of certificates of practice under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(fa)",
+              "clause_text": "to issue guidelines for the purpose of carrying out the objects of this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(h)",
+              "clause_text": "the levy of fees from members, examinees and other persons;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(j)",
+              "clause_text": "the regulation and maintenance of the status and standard of professional qualifications of members of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(k)",
+              "clause_text": "the carrying out, by granting financial assistance to persons other than members of the Council or in any other manner, of research in accountancy;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(l)",
+              "clause_text": "to conduct investor education and awareness programmes;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(la)",
+              "clause_text": "to enter into any memorandum or arrangement with the prior approval of the Central Government, with any agency of a foreign country, for the purpose of performing its functions under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(m)",
+              "clause_text": "to enable functioning of the Director (Discipline), the Board of Discipline, the Disciplinary Committee and the Appellate Authority constituted under the provisions of this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(n)",
+              "clause_text": "to enable functioning of the Quality Review Board;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(o)",
+              "clause_text": "consideration of the recommendations of the Quality Review Board made under clause (a) of section 28B and the details of action taken thereon in its annual report; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(p)",
+              "clause_text": "to ensure the functioning of the Institute in accordance with the provisions of this Act and in performance of other statutory duties as may be entrusted to the Institute from time to time.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "15A",
+      "section_heading": "Imparting education by Universities and other bodies",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "9",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 12 (w.e.f. 8-8-2006).",
+          "footnote_references": "section 15A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Subject to the provisions of this Act, any University established by law or any body affiliated to the Institute, may impart education on the subjects covered by the academic courses of the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Universities or bodies referred to in sub-section (1) shall, while awarding degree, diploma or certificate or bestowing any designation, ensure that the award or designation do not resemble or is not identical to one awarded by the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Nothing contained in this section shall enable a University or a body to adopt a name or nomenclature which is in any way similar to that of the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "15B",
+      "section_heading": "Functions of Institute",
+      "section_text": "The functions of the Institute shall include––",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 15 (w.e.f. 10-5-2022).",
+          "footnote_references": "section 15B"
+        }
+      ],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "the examination of candidates for enrolment;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "the regulation of the engagement and training of articled and audit assistants;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "the maintenance and publication of a Register of persons qualified to practice as chartered accountants;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(d)",
+          "clause_text": "the maintenance and publication of Register of firms;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(e)",
+          "clause_text": "collection of fees from members, examinees and other persons;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(f)",
+          "clause_text": "subject to the orders of the appropriate authorities under this Act, the removal of names from the Register of members and firms and the restoration of names to the Register of members and firms which have been removed;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(g)",
+          "clause_text": "the maintenance of a library and publication of books and periodicals relating to accountancy and allied subjects;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(h)",
+          "clause_text": "the conduct of elections to the Council of the Institute; and",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(i)",
+          "clause_text": "the granting or refusal of certificates of practice as per guidelines issued by the Council.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "16",
+      "section_heading": "Officers and employees, salary, allowances, etc.",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 13, for section 16 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 16"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 16, for clause (c) (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (c)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "For the efficient performance of its duties, the Council shall—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "appoint a Secretary to perform such duties as may be prescribed;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "appoint a Director (Discipline) to perform such functions as are assigned to him under this Act and the rules and regulations framed thereunder.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Council may also—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "appoint such other officers and employees as it considers necessary;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "require and take from the Secretary or from any other officer or employee such security for the due performance of his duties, as the Council considers necessary;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "prescribe the manner of appointment, powers, duties and functions of the Secretary and other officers and employees, their salaries, fees, allowances and other terms and conditions of service;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "with the previous sanction of the Central Government, fix the allowances of the President, Vice-President and other members of the Council and members of its Committees.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Secretary of the Council shall be entitled to participate in the meetings of the Council but shall not be entitled to vote thereat.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "17",
+      "section_heading": "Committees of the Council",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 14, for clause (iii) (w.e.f. 17-11-2006).",
+          "footnote_references": "clause (iii)"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 14, for sub-sections (2) and (3) (w.e.f. 17-11-2006).",
+          "footnote_references": "sub-sections (2) and (3)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall constitute from amongst its members the following Standing Committees, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "an Executive Committee,",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "an Examination Committee, and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iii)",
+              "clause_text": "a Finance Committee.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Council may also form such other committees from amongst its members as it consider necessary for the purpose of carrying out the provisions of this Act, and any Committee so formed may, with the sanction of the Council, co-opt such other members of the Institute not exceeding one-third of the members of the committee as it thinks fit, and any member so co-opted shall be entitled to exercise all the rights of a member of the committee.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Each of the Standing Committees shall consist of the President and the Vice-President ex officio, and minimum of three and maximum of five members to be elected by the Council from amongst its members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The President and the Vice-President of the Council shall be the Chairman and Vice-Chairman respectively of each of the Standing Committees.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "Every member of the Standing Committee other than the Chairman and the Vice-Chairman shall hold office for one year from the date of his election, but subject to being a member of the Council, he shall be eligible for re-election.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "The Standing Committees shall exercise such functions and be subject to such conditions in the exercise thereof as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "18",
+      "section_heading": "Finances of the Council",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 15, for sub-sections (3), (4) and (5) (w.e.f. 17-11-2006).",
+          "footnote_references": "sub-sections (3), (4) and (5)"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 17, for sub-section (5) (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-section (5)"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 15 (w.e.f. 17-11-2006).",
+          "footnote_references": "sub-sections (5A) and (5B)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "There shall be established a fund under the management and control of the Council into which shall be paid all monies received by the Council and out of which shall be met all expenses and liabilities properly incurred by the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Council may invest any money for the time being standing to the credit of the fund in any Government security or in any other security approved by the Central Government.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Council shall keep proper accounts of the fund distinguishing capital from revenue in the manner prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The Council shall prepare in the manner prescribed and approve, prior to the start of the financial year, an annual financial statement (the budget) indicating all its anticipated revenues as well as all proposed expenditures for the forthcoming year.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "The annual accounts of the Council shall be prepared in such manner as may be prescribed and subject to audit by a firm of chartered accountants to be appointed annually by the Council from the panel of auditors maintained by the Comptroller and Auditor-General of India: Provided that a firm shall not be eligible for appointment as an auditor under this sub-section, if any of its partner is or has been a member of the Council during the last four years: Provided further that in the event it is brought to the notice of the Council that the accounts of the Council do not represent a true and fair view of its finances, then, the Council may itself cause a special audit to be conducted: Provided also that, if such information, that the accounts of the Council do not represent a true and fair view of its finances, is sent to the Council by the Central Government, then, the Council may, wherever appropriate cause a special audit or take such other action as it considers necessary and shall furnish an action taken report thereon to the Central Government.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5A)",
+          "subsection_text": "As soon as may be practicable at the end of each year, the Council shall circulate the audited accounts to its members at least fifteen days in advance and consider and approve these accounts in a special meeting convened for the purpose.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5B)",
+          "subsection_text": "The Council shall cause to be published in the Gazette of India not later than the 30th day of September of the year next following, a copy of the audited accounts and the Report of the Council for that year duly approved by the Council and copies of the said accounts and Report shall be forwarded to the Central Government and to all the members of the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "The Council may borrow from a scheduled bank, as defined in the Reserve Bank of India Act, 1934 (2 of 1934), or from the Central Government—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "any money required for meeting its liabilities on capital account on the security of the fund or on the security of any other assets for the time being belonging to it, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "for the purpose of meeting current liabilities pending the receipt of income by way of temporary loan or overdraft.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "19",
+      "section_heading": "Register of members",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 18, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by s. 18, ibid., for sub-section (1) (w.e.f. 10-5-2022).",
+          "footnote_references": "sub-section (1)"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Ins. by s.18, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (ca)"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 17, for sub-section (3) (w.e.f. 1-7-1959).",
+          "footnote_references": "sub-section (3)"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 16 (w.e.f. 17-11-2006).",
+          "footnote_references": "payment provision"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 16, for sub-section (4) (w.e.f. 8-8-2006).",
+          "footnote_references": "sub-section (4)"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "The words \", which shall not exceed rupees five thousand\" omitted by Act 12 of 2022, s. 18 (w.e.f. 10-5-2022).",
+          "footnote_references": "fee limit"
+        },
+        {
+          "footnote_number": "8",
+          "footnote_text": "The Proviso omitted by s. 18, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "Proviso"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall maintain a Register of members of the Institute in such manner as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Register of members shall include the following particulars about every member of the Institute, namely,—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "his full name, date of birth domicile, residential and professional addresses;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the date on which his name is entered in the Register of members;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "his qualifications;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ca)",
+              "clause_text": "whether any actionable information or complaint is pending or any penalty has been imposed against him under Chapter V, including details thereof, if any;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "whether he holds a certificate of practice; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "any other particulars which may be prescribed.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The council shall cause to be published in such manner as may be prescribed, a list of members of the Institute as on the 1st day of April of each year, and shall, if requested to do so by any such member, send to him a copy of such list on payment of such amount as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "Every member of the Institute shall, on his name being entered in the Register of members, pay such annual membership fee as may be determined, by notification, by the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "20",
+      "section_heading": "Removal from the Register of members",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "9",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 18, for section 20 (w.e.f. 1-7-1959).",
+          "footnote_references": "section 20"
+        },
+        {
+          "footnote_number": "10",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 19, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 17 (w.e.f. 8-8-2006).",
+          "footnote_references": "sub-section (3)"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "The words \", which shall not exceed rupees two thousand\" omitted by Act 12 of 2022, s. 19 (w.e.f. 10-5-2022)",
+          "footnote_references": "fee limit"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "The Proviso omitted by s. 19, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "Proviso"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council may remove from the Register of members the name of any member of the Institute",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "who is dead; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "from whom a request has been received to that effect, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "who has not paid any prescribed fee required to be paid by him; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "who is found to have been subject at the time when his name was entered in the Register of members, or who at any time thereafter has become subject, to any of the disabilities mentioned in section 8, or who for any other reason has ceased to be entitled to have his name borne on the Register.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Council shall remove from the Register the name of any member in respect of whom an order has been passed under this Act removing him from membership of the Institute.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "If the name of any member has been removed from the Register under clause (c) of sub-section (1), on receipt of an application, his name may be entered again in the Register on payment of the arrears of annual fee and entrance fee along with such additional fee, as may be determined, by notification, by the Council:",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21",
+      "section_heading": "Disciplinary Directorate",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 19, for CHAPTER V (w.e.f. 1-7-1959).",
+          "footnote_references": "CHAPTER V"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 18, for section 21 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 21"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall, by notification, establish a Disciplinary Directorate headed by an officer of the Institute designated as Director (Discipline) and such other employees for making investigations in respect of any information or complaint received by it.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "On receipt of any information or complaint along with the prescribed fee, the Director (Discipline) shall arrive at a prima facie opinion on the occurrence of the alleged misconduct.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Where the Director (Discipline) is of the opinion that a member is guilty of any professional or other misconduct mentioned in the First Schedule, he shall place the matter before the Board of Discipline and where the Director (Discipline) is of the opinion that a member is guilty of any professional or other misconduct mentioned in the Second Schedule or in both the Schedules, he shall place the matter before the Disciplinary Committee.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "In order to make investigations under the provisions of this Act, the Disciplinary Directorate shall follow such procedure as may be specified.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "Where a complainant withdraws the complaint, the Director (Discipline) shall place such withdrawal before the Board of Discipline or, as the case may be, the Disciplinary Committee, and the said Board or Committee may, if it is of the view that the circumstances so warrant, permit the withdrawal at any stage.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21A",
+      "section_heading": "Board of Discipline",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "6",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 19 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 21A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall constitute a Board of Discipline consisting of—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "a person with experience in law and having knowledge of disciplinary matters and the profession, to be its presiding officer;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "two members one of whom shall be a member of the Council elected by the Council and the other member shall be nominated by the Central Government from amongst the persons of eminence having experience in the field of law, economics, business, finance or accountancy;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the Director (Discipline) shall function as the Secretary of the Board.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Board of Discipline shall follow summary disposal procedure in dealing with all cases before it.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Where the Board of Discipline is of the opinion that a member is guilty of a professional or other misconduct mentioned in the First Schedule, it shall afford to the member an opportunity of being heard before making any order against him and may thereafter take any one or more of the following actions, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "reprimand the member;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "remove the name of the member from the Register up to a period of three months;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "impose such fine as it may think fit, which may extend to rupees one lakh.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The Director (Discipline) shall submit before the Board of Discipline all information and complaints where he is of the opinion that there is no prima facie case and the Board of Discipline may, if it agrees with the opinion of the Director (Discipline), close the matter or in case of disagreement, may advise the Director (Discipline) to further investigate the matter.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21B",
+      "section_heading": "Disciplinary Committee",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall constitute a Disciplinary Committee consisting of the President or the Vice-President of the Council as the Presiding Officer and two members to be elected from amongst the members of the Council and two members to be nominated by the Central Government from amongst the persons of eminence having experience in the field of law, economics, business, finance or accountancy: Provided that the Council may constitute more Disciplinary Committees as and when it considers necessary.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Disciplinary Committee, while considering the cases placed before it shall follow such procedure as may be specified.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Where the Disciplinary Committee is of the opinion that a member is guilty of a professional or other misconduct mentioned in the Second Schedule or both the First Schedule and the Second Schedule, it shall afford to the member an opportunity of being heard before making any order against him and may thereafter take any one or more of the following actions, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "reprimand the member;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "remove the name of the member from the Register permanently or for such period, as it thinks fit;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "impose such fine as it may think fit, which may extend to rupees five lakhs.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The allowances payable to the members nominated by the Central Government shall be such as may be specified.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21C",
+      "section_heading": "Authority, Disciplinary Committee, Board of Discipline and Director (Discipline) to have powers of civil court",
+      "section_text": "For the purposes of an inquiry under the provisions of this Act, the Authority, the Disciplinary Committee, Board of Discipline and the Director (Discipline) shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:—",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "The Explanation omitted by Act 12 of 2022, s. 24 (w.e.f. 10-5-2022).",
+          "footnote_references": "Explanation"
+        }
+      ],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "summoning and enforcing the attendance of any person and examining him on oath;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "the discovery and production of any document; and",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "receiving evidence on affidavit.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21D",
+      "section_heading": "Transitional provisions",
+      "section_text": "All complaints pending before the Council or any inquiry initiated by the Disciplinary Committee or any reference or appeal made to a High Court prior to the commencement of the Chartered Accountants (Amendment) Act, 2006 (9 of 2006), shall continue to be governed by the provisions of this Act, as if this Act had not been amended by the Chartered Accountants (Amendment) Act, 2006.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22",
+      "section_heading": "Professional or other misconduct defined",
+      "section_text": "For the purposes of this Act, the expression \"professional or other misconduct\" shall be deemed to include any act or omission provided in any of the Schedules, but nothing in this section shall be construed to limit or abridge in any way the power conferred or duty cast on the Director (Discipline) under sub-section (1) of section 21 to inquire into the conduct of any member of the Institute under any other circumstances.",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 20, for section 22 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 22"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22A",
+      "section_heading": "Constitution of Appellate Authority",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 21, for section 22A (w.e.f. 17-11-2006).",
+          "footnote_references": "section 22A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government shall, by notification, constitute an Appellate Authority consisting of—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "a person who is or has been a judge of a High Court, to be its Chairperson;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "two members to be appointed from amongst the persons who have been members of the Council for at least one full term and who is not a sitting member of the Council;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "two members to be nominated by the Central Government from amongst persons having knowledge and practical experience in the field of law, economics, business, finance or accountancy.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Chairperson and other members shall be part-time members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22B",
+      "section_heading": "Term of office of Chairperson and members of Authority",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "A person appointed as the Chairperson shall hold office for a term of three years from the date on which he enters upon his office or until he attains the age of sixty-five years, whichever is earlier.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A person appointed as a member shall hold office for a term of three years from the date on which he enters upon his office or until he attains the age of sixty-two years, whichever is earlier.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22C",
+      "section_heading": "Allowances and conditions of service of Chairperson and members of Authority",
+      "section_text": "The allowances payable to, and other terms and conditions of service of, the Chairperson and members and the manner of meeting expenditure of the Authority by the Council and such other authorities shall be such as may be specified.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22D",
+      "section_heading": "Procedure to be regulated by Authority",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The office of the Authority shall be at Delhi.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Authority shall regulate its own procedure.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "All orders and decisions of the Authority shall be authenticated by an officer duly authorised by the Chairperson in this behalf.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22E",
+      "section_heading": "Officers and other staff of Authority",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council shall make available to the Authority such officers and other staff members as may be necessary for the efficient performance of the functions of the Authority.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The salaries and allowances and conditions of service of the officers and other staff members of the Authority shall be such as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22F",
+      "section_heading": "Resignation and removal of Chairperson and members",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Chairperson or a member may, by notice in writing under his hand addressed to the Central Government, resign his office: Provided that the Chairperson or a member shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of such notice or until a person duly appointed as his successor enters upon his office or until the expiry of term of office, whichever is earlier.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Chairperson or a member shall not be removed from his office except by an order of the Central Government on the ground of proved misbehaviour or incapacity after an inquiry made by such person as the Central Government may appoint for this purpose in which the Chairperson or a member concerned has been informed of the charges against him and given a reasonable opportunity of being heard in respect of such charges.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22G",
+      "section_heading": "Appeal to Authority",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Any member of the Institute aggrieved by any order of the Board of Discipline or the Disciplinary Committee imposing on him any of the penalties referred to in sub-section (3) of section 21A and sub-section (3) of section 21B, may within ninety days from the date on which the order is communicated to him, prefer an appeal to the Authority: Provided that the Director (Discipline) may also appeal against the decision of the Board of Discipline or the Disciplinary Committee to the Authority, if so authorised by the Council, within ninety days: Provided further that the Authority may entertain any such appeal after the expiry of the said period of ninety days, if it is satisfied that there was sufficient cause for not filing the appeal in time.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Authority may, after calling for the records of any case, revise any order made by the Board of Discipline or the Disciplinary Committee under sub-section (3) of section 21A and sub-section (3) of section 21B and may—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "confirm, modify or set aside the order;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "impose any penalty or set aside, reduce, or enhance the penalty imposed by the order;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "remit the case to the Board of Discipline or Disciplinary Committee for such further enquiry as the Authority considers proper in the circumstances of the case; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "pass such other order as the Authority thinks fit: Provided that the Authority shall give an opportunity of being heard to the parties concerned before passing any order.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "23",
+      "section_heading": "Constitution and functions of Regional Councils",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 20, for \"The Council may constitute such Regional Councils\" (w.e.f. 1-7-1959).",
+          "footnote_references": "For the purpose of advising"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "For the purpose of advising and assisting it on matters concerning its functions, the Council may constitute such Regional Councils as and when it deems fit for one or more of the regional constituencies that may be specified by the Central Government under clause (a) of sub-section (2) of section 9.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Regional Councils shall be constituted in such manner and exercise such functions as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "24",
+      "section_heading": "Penalty for falsely claiming to be a member, etc.",
+      "section_text": "Any person who,—",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 28, for \"one thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "one lakh rupees"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by s. 28, ibid., for \"five thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "five lakh rupees"
+        }
+      ],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(i)",
+          "clause_text": "not being a member of the Institute,—",
+          "clause_footnotes": [],
+          "sub_clauses": [
+            {
+              "sub_clause_number": "(a)",
+              "sub_clause_text": "represents that he is a member of the Institute; or",
+              "sub_clause_footnotes": []
+            },
+            {
+              "sub_clause_number": "(b)",
+              "sub_clause_text": "uses the designation Chartered Accountant, or",
+              "sub_clause_footnotes": []
+            }
+          ]
+        },
+        {
+          "clause_number": "(ii)",
+          "clause_text": "being a member of the Institute, but not having a certificate of practice, represents that he is in practice or practices as a chartered accountants, shall be punishable on first conviction with fine which may extend to one lakh rupees, and on any subsequent conviction with imprisonment which may extend to six months or with fine which may extend to five lakh rupees, or with both.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "24A",
+      "section_heading": "Penalty for using name of the Council, awarding degrees of chartered accountancy, etc.",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by Act 15 of 1959, s. 21 (w.e.f. 1-7-1959).",
+          "footnote_references": "section 24A"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 29, for \"be punishable with fine which may extend on first conviction to one thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "punishment provision"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by s. 29, ibid., for \"six months, or with fine which may extend to five thousand rupees\" (w.e.f.10-5-2022).",
+          "footnote_references": "subsequent conviction"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Omitted by Act 9 of 2006, s. 22 (w.e.f. 8-8-2006).",
+          "footnote_references": "omitted provision"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Save as otherwise provided in this Act, no person shall—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "use a name or a common seal which is identical with the name or the common seal of the Institute or so nearly resembles it as to deceive or as is likely to deceive the public;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "award any degree, diploma or certificate or bestow any designation which indicates or purports to indicate the position or attainment of any qualification or competence similar to that of a member of the Institute; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(iii)",
+              "clause_text": "seek to regulate in any manner whatsoever the profession of chartered accountants.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Any person contravening the provisions of sub-section (1) shall, without prejudice to any other proceedings which may be taken against him, be punishable with imprisonment which may extend to six months, or with fine which shall not be less than one lakh rupees but which may extend to five lakh rupees, or with both on first conviction and on any subsequent conviction with imprisonment which may extend to one year, or with fine which shall not be less than two lakh rupees but which may extend to ten lakh rupees, or with both.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "25",
+      "section_heading": "Companies not to engage in accountancy",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by Act 3 of 2012, s. 3 (w.e.f. 1-2-2012).",
+          "footnote_references": "Explanation"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 30 (w.e.f. 10-5-2022).",
+          "footnote_references": "fine provision"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by s. 30, ibid., for \"one thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "ten lakh rupees"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by s. 30, ibid., for \"to five thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "subsequent fine"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No company, whether incorporated in India or elsewhere, shall practice as chartered accountants. Explanation.—For the removal of doubts, it is hereby declared that the \"company\" shall include any limited liability partnership which has company as its partner for the purposes of this section.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "If any company contravenes the provisions of sub-section (1), then, without prejudice to any other proceedings which may be taken against the company, every director, manager, secretary and any other officer thereof who is knowingly a party to such contravention shall be punishable with fine which shall not be less than two lakh rupees but which may extend on first conviction to ten lakh rupees, and on any subsequent conviction with fine which shall not be less than four lakh rupees but which may extend to twenty lakh rupees.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "26",
+      "section_heading": "Unqualified persons not to sign documents",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "8",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 22, for \"chartered accountant\" (w.e.f. 1-7-1959).",
+          "footnote_references": "chartered accountant in practice"
+        },
+        {
+          "footnote_number": "9",
+          "footnote_text": "Subs. by s. 22, ibid., for \"firm of chartered accountants\" (w.e.f. 1-7-1959).",
+          "footnote_references": "firm of such chartered accountants"
+        },
+        {
+          "footnote_number": "10",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 23, for sub-section (2) (w.e.f. 8-8-2006).",
+          "footnote_references": "sub-section (2)"
+        },
+        {
+          "footnote_number": "11",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 31, for \"five thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "one lakh rupees"
+        },
+        {
+          "footnote_number": "12",
+          "footnote_text": "Subs. by s. 31, ibid., for \"one lakh rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "five lakh rupees"
+        },
+        {
+          "footnote_number": "13",
+          "footnote_text": "Subs. by s. 31, ibid., for \"ten thousand rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "two lakh rupees"
+        },
+        {
+          "footnote_number": "14",
+          "footnote_text": "Subs. by s. 31, ibid., for \"two lakh rupees\" (w.e.f. 10-5-2022).",
+          "footnote_references": "ten lakh rupees"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No person other than a member of the Institute shall sign any document on behalf of a chartered accountant in practice or a firm of such chartered accountants in his or its professional capacity.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Any person who contravenes the provisions of sub-section (1) shall, without prejudice to any other proceedings, which may be taken against him, be punishable on first conviction with a fine not less than one lakh rupees but which may extend to five lakh rupees, and in the event of a second or subsequent conviction with imprisonment for a term which may extend to one year or with fine not less two lakh rupees but which may extend to ten lakh rupees or with both.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "27",
+      "section_heading": "Maintenance of branch offices",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "15",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 22, for \"chartered accountant\" (w.e.f. 1-7-1959).",
+          "footnote_references": "chartered accountant in practice"
+        },
+        {
+          "footnote_number": "16",
+          "footnote_text": "Subs. by s. 22, ibid., for \"firm of chartered accountants\" (w.e.f. 1-7-1959).",
+          "footnote_references": "firm of such chartered accountants"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 22, for \"chartered accountant\" (w.e.f. 1-7-1959).",
+          "footnote_references": "chartered accountant in practice"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by s. 22, ibid., for \"firm of chartered accountants\" (w.e.f. 1-7-1959).",
+          "footnote_references": "firm of such chartered accountants"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Where a chartered accountant in practice or a firm of such chartered accountants has more than one office in India, each one of such offices shall be in the separate charge of a member of the Institute: Provided that the Council may in suitable cases exempt any chartered accountant in practice or a firm of such chartered accountants from the operation of this sub-section.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Every chartered accountant in practice or a firm of such chartered accountants maintaining more than one office shall send to the Council a list of offices and the persons in charge thereof and shall keep the Council informed of any changes in relation thereto.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28",
+      "section_heading": "Sanction to prosecute",
+      "section_text": "No person shall be prosecuted under this Act except on a complaint made by or under the order of the Council or of the Central Government.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28A",
+      "section_heading": "Establishment of Quality Review Board",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 24 (w.e.f. 17-11-2006).",
+          "footnote_references": "CHAPTER VII A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government shall, by notification, constitute a Quality Review Board consisting of a Chairperson and ten other members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Chairperson and members of the Board shall be appointed from amongst the persons of eminence having experience in the field of law, economics, business, finance or accountancy.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Five members of the Board shall be nominated by the Council and other five members shall be nominated by the Central Government.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28B",
+      "section_heading": "Functions of Board",
+      "section_text": "The Board shall perform the following functions, namely:—",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Ins. by Act 12 of 2022, s. 32 (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (d)"
+        }
+      ],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "to make recommendations to the Council with regard to the quality of services provided by the members of the Institute;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "to review the quality of services provided by the members of the Institute including audit services; and",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "to guide the members of the Institute to improve the quality of services and adherence to the various statutory and other regulatory requirements.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(d)",
+          "clause_text": "to forward cases of non-compliance with various statutory and regulatory requirements by the members of the Institute or firms, noticed by it during the course of its reviews, to the Disciplinary Directorate for its examination.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28C",
+      "section_heading": "Procedure of Board",
+      "section_text": "The Board shall meet at such time and place and follow in its meetings such procedure as may be specified.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28D",
+      "section_heading": "Terms and conditions of services of Chairperson and members of Board and its expenditure",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The terms and conditions of service of the Chairperson and the members of the Board, and their allowances shall be such as may be specified.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The expenditure of the Board shall be borne by the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "29",
+      "section_heading": "Reciprocity",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 33, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Where any country, specified by the Central Government in this behalf by notification in the official Gazette, prevents persons of Indian domicile from becoming members of any institution similar to the Institute of Chartered Accountants of India or from practicing the profession of accountancy or subjects them to unfair discrimination in that country, no subject of any such country shall be entitled to become a member of the Institute or practice the profession of accountancy in India.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Subject to the provisions of sub-section (1), the Council may prescribe the conditions, if any, subject to which foreign qualifications relating to accountancy shall be recognised for the purposes of entry in the Register of members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "29A",
+      "section_heading": "Power of Central Government to make rules",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 25 (w.e.f. 8-8-2006).",
+          "footnote_references": "section 29A"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 34, for clauses (c) and (d) (w.e.f. 10-5-2022).",
+          "footnote_references": "clauses (c) and (d)"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the manner of election and nomination in respect of members to the Council under sub-section (2) of section 9;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the terms and conditions of service of the Presiding Officer and Members of the Tribunal, place of meetings and allowances to be paid to them under sub-section (3) of section 10B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the form and fee for filing an information or a complaint under sub-section (1), the manner of deciding a complaint or information as actionable or non-actionable under sub-section (2) and the procedure of investigation under sub-section (7), of section 21;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "the procedure while considering the cases by the Board of Discipline under sub-section (2) and time limit for payment of fine under sub-section (7), of section 21A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(da)",
+              "clause_text": "the procedure while considering the cases by the Disciplinary Committee under sub-section (2) and time limit for payment of fine under sub-section (7), of section 21B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "the allowances and terms and conditions of service of the Chairperson and members of the Authority and the manner of meeting expenditure by the Council under section 22C;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "the procedure to be followed by the Board in its meetings under section 28C; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(g)",
+              "clause_text": "the terms and conditions of service of the Chairperson and members of the Board under sub-section (1) of section 28D.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30",
+      "section_heading": "Power to make regulations",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "The words \"and a copy of such regulations shall be sent to each member of the Institute\" omitted by Act 9 of 2006, s. 26, (w.e.f. 8-8-2006).",
+          "footnote_references": "copy provision"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 35, for \"Register\" (w.e.f. 10-5-2022).",
+          "footnote_references": "Register of members"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Clause (g) omitted by s. 35, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (g)"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Clause (i) omitted by s. 35, ibid. (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (i)"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 23, for clause (j) (w.e.f. 1-7-1959).",
+          "footnote_references": "clause (j)"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 26, for \"clerks\" (w.e.f. 8-8-2006).",
+          "footnote_references": "assistants"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 12 of 2022, s. 35, for clause (r) (w.e.f. 10-5-2022).",
+          "footnote_references": "clause (r)"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Omitted by Act 9 of 2006, s. 26 (w.e.f. 8-8-2006).",
+          "footnote_references": "omitted clause"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Council may, by notification in the Gazette of India, make regulations for the purpose of carrying out the objects of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the standard and conduct of examinations under this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the qualifications for the entry of the name of any person in the Register of members as a member of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the conditions under which any examination or training may be treated as equivalent to the examination and training prescribed for members of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "the conditions under which any foreign qualification may be recognised;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "the manner in which and the conditions subject to which applications for entry in the Register of members may be made;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "the fees payable for membership of the Institute and the annual fees payable by associates and fellows of the Institute in respect of their certificates;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(h)",
+              "clause_text": "the particulars to be entered in the Register of members;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(j)",
+              "clause_text": "the training of articled and audit assistants, the fixation of limits within which premia may be charged from articled assistants and the cancellation of articles and termination of audit service for misconduct or for any other sufficient cause;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(k)",
+              "clause_text": "the regulation and maintenance of the status and standard of professional qualifications of members of the Institute;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(l)",
+              "clause_text": "the carrying out of research in accountancy;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(m)",
+              "clause_text": "the maintenance of a library and publication of books and periodicals on accountancy;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(n)",
+              "clause_text": "the management of the property of the Council and the maintenance and audit of its accounts;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(o)",
+              "clause_text": "the summoning and holding of meetings of the Council, the times and places of such meetings, the conduct of business thereat and the number of members necessary to form a quorum;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(p)",
+              "clause_text": "the powers, duties and functions of the President and the Vice-President of the Council;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(q)",
+              "clause_text": "the functions of the standing and other committees and the conditions subject to which such functions shall be discharged;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(r)",
+              "clause_text": "the qualification required for the purposes of sub-section (3) of section 5;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ra)",
+              "clause_text": "the circumstances under which certificates of practice may be cancelled under sub-section (3) of section 6;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rb)",
+              "clause_text": "the guidelines for granting or refusal of certificates of practice under clause (f) of sub-section (2) of section 15;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rc)",
+              "clause_text": "the manner of appointment, powers, duties, functions, salaries, fees, allowances and other terms and conditions of service of the Secretary and other officers and employees of the Council under clause (c) of sub-section (2) of section 16;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rd)",
+              "clause_text": "the manner of preparing annual financial statement under sub-section (4) and the annual accounts under sub-section (5), of section 18;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(re)",
+              "clause_text": "the manner of maintaining a Register of members of the Institute under sub-section (1) and the manner in which the annual list of members registered with the Institute shall be published under sub-section (3), of section 19;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rf)",
+              "clause_text": "the manner of making an application for grant of registration of a firm and the terms and conditions of such registration under section 20A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rg)",
+              "clause_text": "the manner of maintenance of Register of firms, and other particulars including details of pendency of any actionable information or complaint or imposition of penalty against the firm under sub-section (1) and sub-section (2) and the manner in which the annual list of firms registered with the Institute shall be published under sub-section (3), of section 20B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rh)",
+              "clause_text": "the manner of making available status of actionable information and complaints and orders passed under sub-section (9) of section 21;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ri)",
+              "clause_text": "the manner of preparing panel of persons under clauses (a), (b) and (c) of sub-section (1) and the allowances payable to the Presiding Officers and members of the Boards of Discipline under sub-section (8), of section 21A;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rj)",
+              "clause_text": "the manner of preparing panel of persons under clauses (a), (b) and (c) of sub-section (1) and the allowances payable to the Presiding Officers and members of the Disciplinary Committees under sub-section (8), of section 21B;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rk)",
+              "clause_text": "the salaries and allowances and conditions of service of officers and other staff of Authority under sub-section (2) of section 22E;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(rl)",
+              "clause_text": "the manner in which Regional Council may be constituted under sub-section (2) of section 23 and the functions thereof; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(t)",
+              "clause_text": "any other matter which is required to be or may be prescribed under this Act.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "All regulations made by the Council under this Act shall be subject to the condition of previous publication and to the approval of the Central Government.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "Notwithstanding anything contained in sub-sections (1) and (2) the Central Government may frame the first regulations for the purpose mentioned in this section, and such regulations shall be deemed to have been made by the Council, and shall remain in force from the date of the coming into force of this Act, until they are amended, altered or revoked by the Council.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30A",
+      "section_heading": "Powers of Central Government to direct regulations to be made or to make or amend regulations",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 15 of 1959, s. 24 (w.e.f. 1-7-1959).",
+          "footnote_references": "section 30A"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Where the Central Government considers it expedient so to do, it may, by order in writing, direct the Council to make any regulations or to amend or revoke any regulations already made within such period as it may specify in this behalf.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "If the Council fails or neglects to comply with such order within the specified period, the Central Government may make the regulations or amend or revoke the regulations made by the Council, as the case may be, either in the form specified in the order or with such modifications thereof as the Central Government thinks fit.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30B",
+      "section_heading": "Rules, regulations and notifications to be laid before Parliament",
+      "section_text": "Every rule and every regulation made and every notification issued under this Act shall be laid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule, regulation or notification, or both Houses agree that the rule, regulation or notification should not be made or issued, the rule, regulation or notification, shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule, regulation or notification.",
+      "section_footnotes": [
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by Act 9 of 2006, s. 27, for section 30B (w.e.f. 8-8-2006).",
+          "footnote_references": "section 30B"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30C",
+      "section_heading": "Power of Central Government to issue directions",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "3",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 28 (w.e.f. 8-8-2006).",
+          "footnote_references": "section 30C"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "In the event of non-compliance by the Council of any provisions of this Act, the Central Government may give to the Council such general or special directions as it considers necessary to ensure compliance and the Council shall, in the discharge of its functions under this Act, comply with such directions.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "If, in the opinion of the Central Government, the Council has persistently made default in giving effect to the directions issued under sub-section (1), it may, after giving an opportunity of being heard to the Council, by notification, dissolve the Council, where after a new Council shall be constituted in accordance with the provisions of this Act with effect from such date as may be decided by the Central Government: Provided that the Central Government shall ensure constitution of a new Council in accordance with the provisions of this Act within a period of one year from the date of its dissolution.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Where the Central Government has issued a notification under sub-section (2) dissolving the Council, it shall, pending the constitution of a new Council in accordance with the provisions of this Act, nominate any person or body of persons not exceeding five members to manage the affairs and discharge all or any of the functions of the Council under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30D",
+      "section_heading": "Protection of action taken in good faith",
+      "section_text": "No suit, prosecution or other legal proceeding shall lie against the Central Government or the Council or the Authority or the Disciplinary Committee or the Tribunal or the Board or the Board of Discipline or the Disciplinary Directorate or any officer of that Government, Council, Authority, Disciplinary Committee, Tribunal, Board, Board of Discipline or the Disciplinary Directorate, for anything which is in good faith done or intended to be done under this Act or any rule, regulation, notification, direction or order made thereunder.",
+      "section_footnotes": [
+        {
+          "footnote_number": "*",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 28 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 30D"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30E",
+      "section_heading": "Members, etc., to be public servants",
+      "section_text": "The Chairperson, Presiding Officer, members and other officers and employees of the Authority, Disciplinary Committee, Tribunal, Board, Board of Discipline or the Disciplinary Directorate shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).",
+      "section_footnotes": [
+        {
+          "footnote_number": "*",
+          "footnote_text": "Ins. by Act 9 of 2006, s. 28 (w.e.f. 17-11-2006).",
+          "footnote_references": "section 30E"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "31",
+      "section_heading": "Construction of references",
+      "section_text": "Any reference to a chartered accountant or a registered accountant or a certified or qualified auditor in any other law or in any document whatsoever shall be construed as a reference to a chartered accountant in practice within the meaning of this Act.",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "Subs. by Act 15 of 1959, s. 25, for section 31 (w.e.f. 1-7-1959).",
+          "footnote_references": "section 31"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "32",
+      "section_heading": "Act not to affect right of accountants to practise as such in Part B States",
+      "section_text": "Nothing contained in this Act shall affect the right of any person who, at the commencement of this Act, is entitled to engage himself in the practice of accountancy in any [Part B State] under any law in force in that State, to continue to engage himself in the practice of accountancy in that State after the commencement of this Act.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "33",
+      "section_heading": "[Amendment of section 144, Indian Companies Act, 1913.]",
+      "section_text": "Rep. by the Repealing and Amending Act, 1952 (48 of 1952), s. 2 and the First Schedule (w.e.f. 2-8-1952).",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    }
+  ],
+  "act_schedules": [
+    {
+      "schedule_number": "THE FIRST SCHEDULE",
+      "schedule_title": "(See sections 21(3), 21A(3) and 22)",
+      "schedule_content": "PART I Professional misconduct in relation to chartered accountants in practice A chartered accountant in practice shall be deemed to be guilty of professional misconduct, if he— (1) allows any person to practice in his name as a chartered accountant unless such person is also a chartered accountant in practice and is in partnership with or employed by him; (2) pays or allows or agrees to pay or allow, directly or indirectly, any share, commission or brokerage in the fees or profits of his professional business, to any person other than a member of the Institute or a partner or a retired partner or the legal representative of a deceased partner, or a member of any other professional body or with such other persons having such qualifications as may be prescribed, for the purpose of rendering such professional services from time to time in or outside India. Explanation.—In this item, \"partner\" includes a person residing outside India with whom a chartered accountant in practice has entered into partnership which is not in contravention of item (4) of this Part; (3) accepts or agrees to accept any part of the profits of the professional work of a person who is not a member of the Institute: Provided that nothing herein contained shall be construed as prohibiting a member from entering into profit sharing or other similar arrangements, including receiving any share commission or brokerage in the fees, with a member of such professional body or other person having qualifications, as is referred to in item (2) of this Part; (4) enters into partnership, in or outside India, with any person other than a chartered accountant in practice or such other person who is a member of any other professional body having such qualifications as may be prescribed, including a resident who but for his residence abroad would be entitled to be registered as a member under clause (v) of sub-section (1) of section 4 or whose qualifications are recognised by the Central Government or the Council for the purpose of permitting such partnerships; (5) secures, either through the services of a person who is not an employee of such chartered accountant or who is not his partner or by means which are not open to a chartered accountant, any professional business: Provided that nothing herein contained shall be construed as prohibiting any arrangement permitted in terms of items (2), (3) and (4) of this Part; (6) solicits clients or professional work either directly or indirectly by circular, advertisement, personal communication or interview or by any other means: Provided that nothing herein contained shall be construed as preventing or prohibiting— (i) any chartered accountant from applying or requesting for or inviting or securing professional work from another chartered accountant in practice; or (ii) a member from responding to tenders or enquiries issued by various users of professional services or organisations from time to time and securing professional work as a consequence; (7) advertises his professional attainments or services, or uses any designation or expressions other than chartered accountant on professional documents, visiting cards, letter heads or sign boards, unless it be a degree of a University established by law in India or recognised by the Central Government or a title indicating membership of the Institute of Chartered Accountants of India or of any other institution that has been recognised by the Central Government or may be recognised by the Council: Provided that a member in practice may advertise through a write up, setting out the services provided by him or his firm and particulars of his firm subject to such guidelines as may be issued by the Council; (8) accepts a position as auditor previously held by another chartered accountant or a certified auditor who has been issued certificate under the Restricted Certificate Rules, 1932 without first communicating with him in writing; (9) accepts an appointment as auditor of a company without first ascertaining from it whether the requirements of section 225 of the Companies Act, 1956 (1 of 1956) or sections 139 to 141 of the Companies Act, 2013 (18 of 2013) or any other law pertaining to appointment of auditors for the time being in force in respect of such appointment have been duly complied with; (10) charges or offers to charge, accepts or offers to accept in respect of any professional employment, fees which are based on a percentage of profits or which are contingent upon the findings, or results of such employment, except as permitted under any regulation made under this Act; (11) engages in any business or occupation other than the profession of chartered accountant unless permitted by the Council so to engage: Provided that nothing contained herein shall disentitle a chartered accountant from being a director of a company (not being a managing director or a whole time director) unless he or any of his partners is interested in such company as an auditor; (12) allows a person not being a member of the Institute in practice, or a member not being his partner to sign on his behalf or on behalf of his firm, any balance-sheet, profit and loss account, report or financial statements. PART II Professional misconduct in relation to members of the Institute in service A member of the Institute (other than a member in practice) shall be deemed to be guilty of professional misconduct, if he being an employee of any company, firm or person— (1) pays or allows or agrees to pay directly or indirectly to any person any share in the emoluments of the employment undertaken by him; (2) accepts or agrees to accept any part of fees, profits or gains from a lawyer, a chartered accountant or broker engaged by such company, firm or person or agent or customer of such company, firm or person by way of commission or gratification. PART III Professional misconduct in relation to members of the Institute generally A member of the Institute, whether in practice or not, shall be deemed to be guilty of professional misconduct, if he— (1) not being a fellow of the Institute, acts as a fellow of the Institute; (2) does not supply the information called for, or does not comply with the requirements asked for, by the Institute, Council or any of its Committees, Director (Discipline), Board of Discipline, Disciplinary Committee, Quality Review Board or the Appellate Authority; (3) while inviting professional work from another chartered accountant or while responding to tenders or enquiries or while advertising through a write up or anything as provided for in items (6) and (7) of Part I of this Schedule, gives information knowing it to be false. PART IV Other misconduct in relation to members of the Institute generally A member of the Institute, whether in practice or not, shall be deemed to be guilty of other misconduct, if he— (1) is held guilty by any civil or criminal court for an offence which is punishable with imprisonment for a term not exceeding six months; (2) in the opinion of the Council, brings disrepute to the profession or the Institute as a result of his action whether or not related to his professional work."
+    },
+    {
+      "schedule_number": "THE SECOND SCHEDULE",
+      "schedule_title": "(See sections 21(3), 21B(3) and 22)",
+      "schedule_content": "PART I Professional misconduct in relation to chartered accountants in practice A chartered accountant in practice shall be deemed to be guilty of professional misconduct, if he— (1) discloses information acquired in the course of his professional engagement to any person other than his client so engaging him, without the consent of his client or otherwise than as required by any law for the time being in force; (2) certifies or submits in his name, or in the name of his firm, a report of an examination of financial statements unless the examination of such statements and the related records has been made by him or by a partner or an employee in his firm or by another chartered accountant in practice; (3) permits his name or the name of his firm to be used in connection with an estimate of earnings contingent upon future transactions in a manner which may lead to the belief that he vouches for the accuracy of the forecast; (4) expresses his opinion on financial statements of any business or enterprise in which he, his firm, or a partner in his firm has a substantial interest; (5) fails to disclose a material fact known to him which is not disclosed in a financial statement, but disclosure of which is necessary in making such financial statement where he is concerned with that financial statement in a professional capacity; (6) fails to report a material misstatement known to him to appear in a financial statement with which he is concerned in a professional capacity; (7) does not exercise due diligence, or is grossly negligent in the conduct of his professional duties; (8) fails to obtain sufficient information which is necessary for expression of an opinion or its exceptions are sufficiently material to negate the expression of an opinion; (9) fails to invite attention to any material departure from the generally accepted procedure of audit applicable to the circumstances; (10) fails to keep moneys of his client other than fees or remuneration or money meant to be expended in a separate banking account or to use such moneys for purposes for which they are intended within a reasonable time. PART II Professional misconduct in relation to members of the Institute generally A member of the Institute, whether in practice or not, shall be deemed to be guilty of professional misconduct, if he— (1) contravenes any of the provisions of this Act or the regulations made thereunder or any guidelines issued by the Council; (2) being an employee of any company, firm or person, discloses confidential information acquired in the course of his employment except as and when required by any law for the time being in force or except as permitted by the employer; (3) includes in any information, statement, return or form to be submitted to the Institute, Council or any of its Committees, Director (Discipline), Board of Discipline, Disciplinary Committee, Quality Review Board or the Appellate Authority any particulars knowing them to be false; (4) defalcates or embezzles moneys received in his professional capacity. (5) acts as an auditor of the company in contravention of the provisions of the Companies Act, 2013 (18 of 2013). PART III Other misconduct in relation to members of the Institute generally A member of the Institute, whether in practice or not, shall be deemed to be guilty of other misconduct, if he is held guilty by any civil or criminal court for an offence which is punishable with imprisonment for a term exceeding six months."
+    }
+  ]
+}

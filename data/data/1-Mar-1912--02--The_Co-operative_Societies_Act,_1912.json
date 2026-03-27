@@ -1,0 +1,1314 @@
+{
+  "act_title": "THE CO-OPERATIVE SOCIETIES ACT, 1912",
+  "act_number": "ACT NO. 2 OF 1912",
+  "act_enactment_date": "1st March, 1912",
+  "act_preamble": "An Act to amend the Law relating to Co-operative Societies. WHEREAS it is expedient further to facilitate the formation of Co-operative Societies for the promotion of thrift and self-help among agriculturists, artisans and persons of limited means, and for that purpose to amend the law relating to Co-operative Societies; It is hereby enacted as follows:—",
+  "preamble_footnotes": [
+    {
+      "footnote_number": "1",
+      "footnote_text": "This Act has been declared to be in force in the Sonthal Parganas by notification under s. 3 of the Sonthal Parganas Settlement Regulation (3 of 1872), see B. and O. Gazette, 1913, Pt. II, p. 105. It has been repealed in its application to— (1) the Bombay Presidency by the Bombay Co-operative Societies Act, 1925 (Bom. 7 of 1925); (2) the Madras Presidency by the Madras Co-operative Societies Act, 1932 (Mad. 6 of 1932); (3) Bihar and Orissa by the B. and O. Co-operative Societies Act, 1935 (B. and O. 6 of 1935); (4) Orissa, separately, by the Orissa Laws Regulation, 1936 (1 of 1936); (5) Coorg by the Coorg Co-operative Societies Act, 1936 (Coorg 2 of 1936); (6) Bengal, with certain exceptions, by the Bengal Co-operative Societies Act, 1940 (Ben. 21 of 1940); (7) Vidarbha region of Bombay by Bombay Act 20 of 1960; (8) Mahakoshal region by Madhya Pradesh Act 17 of 1961; and (9) the Union territory of Andaman and Nicobar Islands by Reg. 3 of 1973. It has been amended in— (1) the U.P. by the Co-operative Societies (Amendment) Act, 1919 (U.P. 3 of 1919), the Co-operative Societies (U.P. Amendment) Act, 1944 (U.P. 1 of 1944) as continued in force by the U.P. Expiring Laws Continuance Act, 1948 (U.P. 13 of 1948) and Uttar Pradesh Act 10 of 1957; (2) the C.P. by the Co-operative Societies (Central Provinces Amendment) Act, 1930 (C.P. 7 of 1930) and in C.P. and Berar by the following Acts as continued in force by the C.P. and Berar Expiring laws Continuance and Amending Act, 1947 (C.P. & B. 48 of 1947):— (i) the C.P. and Berar Co-operative Societies (Amendment) Act, 1940 (C.P. & B. 5 of 1940); (ii) the C.P. and Berar Co-operative Societies (Amendment) Act, 1941 (C.P. & B. 6 of 1941); (iii) the C.P. and Berar Co-operative Societies Amendment and Liquidators, Orders Validation Act, 1945 (C.P. & B. 10 of 1945); and (iv) Madhya Pradesh by M.P. Act 8 of 1954.",
+      "footnote_references": "1"
+    },
+    {
+      "footnote_number": "2",
+      "footnote_text": "Subs. by the Adaptation of Laws (No. 2) Order, 1956, for \"Part B States\".",
+      "footnote_references": "2"
+    }
+  ],
+  "act_sections": [
+    {
+      "section_number": "1",
+      "section_heading": "Short title and extent",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "This Act may be called the Co-operative Societies Act, 1912; and",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "it extends to the whole of India except the territories which, immediately before the 1st November, 1956, were comprised in Part B States.",
+          "subsection_footnotes": [
+            {
+              "footnote_number": "2",
+              "footnote_text": "Subs. by the Adaptation of Laws (No. 2) Order, 1956, for \"Part B States\".",
+              "footnote_references": "2"
+            }
+          ],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "2",
+      "section_heading": "Definitions",
+      "section_text": "In this Act, unless there is anything repugnant in the subject or context,—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "\"by-laws\" means the registered by-laws for the time being in force, and includes a registered amendment of the by-laws:",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "\"committee\" means the governing body of a registered society to whom the management of its affairs is entrusted:",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "\"member\" includes a person joining in the application for the registration of a society and a person admitted to membership after registration in accordance with the by laws and any rules:",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(d)",
+          "clause_text": "\"officer\" includes a chairman, secretary, treasurer, member of committee, or other person empowered under the rules or the by-laws to give directions in regard to the business of the society:",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(e)",
+          "clause_text": "\"registered society\" means a society registered or deemed to be registered under this Act:",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(f)",
+          "clause_text": "\"Registrar\" means a person appointed to perform the duties of a Registrar of Co-operative Societies under this Act: and",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(g)",
+          "clause_text": "\"rules\" means rules made under this Act.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "3",
+      "section_heading": "The Registrar",
+      "section_text": "The State Government may appoint a person to be Registrar of Co-operative Societies for the State or any portion of it, and may appoint persons to assist such Registrar, and may, by general or special order, confer on any such persons all or any of the powers of a Registrar under this Act.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "4",
+      "section_heading": "Societies which may be registered",
+      "section_text": "Subject to the provisions hereinafter contained, a society which has as its object the promotion of the economic interests of its members in accordance with co-operative principles, or a society established with the object of facilitating the operations of such a society, may be registered under this Act with or without limited liability: Provided that unless the State Government by general or special order otherwise directs—",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "the liability of a society of which a member is a registered society shall be limited;",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "the liability of a society of which the object is the creation of funds to be lent to its members, and of which the majority of the members are agriculturists, and of which no member is a registered society, shall be unlimited.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "5",
+      "section_heading": "Restrictions on interest of member of society with limited liability and a share capital",
+      "section_text": "Where the liability of the members of a society is limited by shares, no member other than a registered society shall—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "hold more than such portion of the share capital of the society, subject to a maximum of one-fifth, as may be prescribed by the rules; or",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "have or claim any interest in the shares of the society exceeding one thousand rupees.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "6",
+      "section_heading": "Conditions of registration",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No society, other than a society of which a member is a registered society, shall be registered under this Act which does not consist of at least ten persons above the age of eighteen years and, where the object of the society is the creation of funds to be lent to its members, unless such persons—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "reside in the same town or village or in the same group of villages; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "save where the Registrar otherwise directs, are members of the same tribe, class, caste, or occupation.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The word \"limited\" shall be the last word in the name of every society with limited liability registered under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "7",
+      "section_heading": "Power of Registrar to decide certain questions",
+      "section_text": "When any question arises whether for the purposes of this Act a person is an agriculturist or a non-agriculturist, or whether any person is a resident in a town or village or group of villages, or whether two or more villages shall be considered to form a group, or whether any person belongs to any particular tribe, class, caste or occupation, the question shall be decided by the Registrar, whose decision shall be final.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "8",
+      "section_heading": "Application for registration",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "For purposes of registration an application to register shall be made to the Registrar.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The application shall be signed—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "in the case of a society of which no member is a registered society by at least ten persons qualified in accordance with the requirements of section 6, sub-section (1); and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "in the case of a society of which a member is a registered society, by a duly authorised person on behalf of every such registered society, and where all the members of the society are not registered societies, by ten other members or, when there are less than ten other members, by all of them.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The application shall be accompanied by a copy of the proposed by-laws of the society, and the persons by whom or on whose behalf such application is made shall furnish such information in regard to the society as the Registrar may require.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "9",
+      "section_heading": "Registration",
+      "section_text": "If the Registrar is satisfied that a society has complied with the provisions of this Act and the rules and that its proposed by-laws are not contrary to the Act or to the rules, he may, if he thinks fit, register the society and its by-laws.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "10",
+      "section_heading": "Evidence of registration",
+      "section_text": "A certificate of registration signed by the Registrar shall be conclusive evidence that the society therein mentioned is duly registered unless it is proved that the registration of the society has been cancelled.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "11",
+      "section_heading": "Amendment of the by-laws of a registered society",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No amendment of the by-laws of a registered society shall be valid until the same has been registered under this Act, for which purpose a copy of the amendment shall be forwarded to the Registrar.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "If the Registrar is satisfied that any amendment of the by-laws is not contrary to this Act or to the rules, he may, if he thinks fit, register the amendment.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "When the Registrar registers an amendment of the by-laws of a registered society, he shall issue to the society a copy of the amendment certified by him, which shall be conclusive evidence that the same is duly registered.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "12",
+      "section_heading": "Member not to exercise rights till due payment made",
+      "section_text": "No member of a registered society shall exercise the rights of a member unless or until he has made such payment to the society in respect of membership or acquired such interest in the society, as may be prescribed by the rules or by-laws.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "13",
+      "section_heading": "Votes of members",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Where the liability of the members of a registered society is not limited by shares, each member shall, notwithstanding the amount of his interest in the capital, have one vote only as a member in the affairs of the society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Where the liability of the members of a registered society is limited by shares, each member shall have as many votes as may be prescribed by the by-laws.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "A registered society which has invested any part of its funds in the shares of any other registered society may appoint as its proxy, for the purpose of voting in the affairs of such other registered society, any one of its members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "14",
+      "section_heading": "Restrictions on transfer of share or interest",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The transfer or charge of the share or interest of a member in the capital of a registered society shall be subject to such conditions as to maximum holding as may be prescribed by this Act or by the rules.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In case of a society registered with unlimited liability a member shall not transfer any share held by him or his interest in the capital of the society or any part thereof unless—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "he has held such share or interest for not less than one year; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the transfer or charge is made to the society or to a member of the society.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "15",
+      "section_heading": "Address of societies",
+      "section_text": "Every registered society shall have an address, registered in accordance with the rules, to which all notices and communications may be sent, and shall send to the Registrar notice of every change thereof.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "16",
+      "section_heading": "Copy of Act, rules and by-laws to be open to inspection",
+      "section_text": "Every registered society shall keep a copy of this Act and of the rules governing such society, and of its by-laws, open to inspection free of charge at all reasonable times at the registered address of the society.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "17",
+      "section_heading": "Audit",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Registrar shall audit or cause to be audited by some person authorised by him by general or special order in writing in this behalf the accounts of every registered society once at least in every year.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The audit under sub-section (1) shall include an examination of overdue debts, if any, and a valuation of the assets and liabilities of the society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Registrar, the Collector or any person authorised by general or special order in writing in this behalf by the Registrar shall at all times have access to all the books, accounts, papers and securities of a society, and every officer of the society shall furnish such information in regard to the transactions and working of the society as the person making such inspection may require.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "18",
+      "section_heading": "Societies to be bodies corporate",
+      "section_text": "The registration of a society shall render it a body corporate by the name under which it is registered, with perpetual succession and a common seal, and with power to hold property, to enter into contracts, to institute and defend suits and other legal proceedings and to do all things necessary for the purposes of its constitution.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "19",
+      "section_heading": "Prior claim of society",
+      "section_text": "Subject to any prior claim of the Government in respect of land-revenue or any money recoverable as land-revenue or of a landlord in respect of rent or any money recoverable as rent, a registered society shall be entitled in priority to other creditors to enforce any outstanding demand due to the society from a member or past member—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "in respect of the supply of seed or manure or of the loan of money for the purchase of seed or manure upon the crops or other agricultural produce of such member or person at any time within eighteen months from the date of such supply or loan;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "in respect of the supply of cattle, fodder for cattle, agricultural or industrial implements or machinery, or raw materials for manufacture, or of the loan of money for the purchase of any of the foregoing things—upon any such things so supplied, or purchased in whole or in part from any such loan, or on any articles manufactured from raw materials so supplied or purchased.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "20",
+      "section_heading": "Charge and set-off in respect of shares or interest of member",
+      "section_text": "A registered society shall have a charge upon the share or interest in the capital and on the deposits of a member or past member and upon any dividend, bonus or profits payable to a member or past member in respect of any debt due from such member or past member to the society, and may set-off any sum credited or payable to a member or past member in or towards payment of any such debt.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21",
+      "section_heading": "Shares or interest not liable to attachment",
+      "section_text": "Subject to the provisions of section 20, the share or interest of a member in the capital of a registered society shall not be liable to attachment or sale under any decree or order of a Court of Justice in respect of any debt or liability incurred by such member, and neither the Official Assignee under the Presidency-towns Insolvency Act, 1909 (3 of 1909) nor a Receiver under the Provincial Insolvency Act, 1907 (3 of 1907), shall be entitled to or have any claim on such share or interest.",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "See now the Provincial Insolvency Act, 1920 (5 of 1920).",
+          "footnote_references": "1"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22",
+      "section_heading": "Transfer of interest on death of member",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "On the death of a member a registered society may transfer the share or interest of the deceased member to the person nominated in accordance with the rules made in this behalf, or, if there is no person so nominated, to such person as may appear to the committee to be the heir or legal representative of the deceased member, or pay to such nominee, heir or legal representative, as the case may he, a sum representing the value of such member's share or interest, as ascertained in accordance with the rules or by-laws: Provided that—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(i)",
+              "clause_text": "in the case of a society with unlimited liability, such nominee, heir or legal representative, as the case may be, may require payment by the society of the value of the share or interest of the deceased member ascertained as aforesaid;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(ii)",
+              "clause_text": "in the case of a society with limited liability, the society shall transfer the share or interest of the deceased member to such nominee, heir or legal representative, as the case may be, being qualified in accordance with the rules and by-laws for membership of the society, or on his application within one month of the death of the deceased member to any person specified in the application who is so qualified.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A registered society may pay all other moneys due to the deceased member from the society to such nominee, heir or legal representative, as the case may be.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "All transfers and payments made by a registered society in accordance with the provisions of this section shall be valid and effectual against any demand made upon the society by any other person.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "23",
+      "section_heading": "Liability of past member",
+      "section_text": "The liability of a past member for the debts of a registered society as they existed at the time when he ceased to be a member shall continue for a period of two years from the date of his ceasing to be a member.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "24",
+      "section_heading": "Liability of the estates of deceased member",
+      "section_text": "The estate of a deceased member shall be liable for a period of one year from the time of his decease for the debts of a registered society as they existed at the time of his decease.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "25",
+      "section_heading": "Register of members",
+      "section_text": "Any register or list of members or shares kept by any registered society shall be prima facie evidence of any of the following particulars entered therein:—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "the date at which the name of any person was entered in such register or list as a member;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "the date at which any such person ceased to be a member.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "26",
+      "section_heading": "Proof of entries in societies, books",
+      "section_text": "A copy of any entry in a book of a registered society regularly kept in the course of business, shall, if certified in such manner as may be prescribed by the rules, be received, in any suit or legal proceeding, as prima facie evidence of the existence of such entry, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is admissible.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "27",
+      "section_heading": "Exemption from compulsory registration of instruments relating to shares and debentures of registered society",
+      "section_text": "Nothing in section 17, sub-section (1), clauses (b) and (c) of the Indian Registration Act, 1908 (16 of 1908), shall apply to—",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "any instrument relating to shares in a registered society, notwithstanding that the assets of such society consist in whole or in part of immoveable property; or",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "any debenture issued by any such society and not creating, declaring, assigning, limiting or extinguishing any right, title or interest to or in immoveable property except in so far as it entitles the holder to the security afforded by a registered instrument whereby the society has mortgaged, conveyed or otherwise transferred the whole or part of its immoveable property or any interest therein to trustees upon trust for the benefit of the holders of such debentures; or",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "any endorsement upon or transfer of any debenture issued by any such society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28",
+      "section_heading": "Power to exempt from income-tax, stamp-duty and registration fees",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "S. 28 re-numbered a sub-section (1) of that section by Act 38 of 1920, s. 2 and the first Schedule, Pt. I. The whole of this Act, with the exception of— (a) Sub-section (1) of section 28, and (b) Sub-section (2) of section 28, so far as it relates to the stamp-duties specified in the second paragraph thereof, has been repealed in Bengal by the Bengal Co-operative Societies Act, 1940 (Ben. 21 of 1940), s. 3 and the first Schedule.",
+          "footnote_references": "1"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "For notifications under this section, see Gazette of India, 1914, Pt. I, p. 994.",
+          "footnote_references": "2"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "The brackets and letter \"(a)\" omitted by Act 38 of 1920, s. 2 and the first Schedule, Pt. I.",
+          "footnote_references": "3"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Clauses (b) and (c) omitted by s. 2 and the first Schedule, Pt. I, ibid.",
+          "footnote_references": "4"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Added by Act 38 of 1920, s. 2 and the first Schedule Pt. I.",
+          "footnote_references": "1"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "Subs. by the A. O 1937, for \"L.G.\".",
+          "footnote_references": "2"
+        },
+        {
+          "footnote_number": "3",
+          "footnote_text": "Added, ibid.",
+          "footnote_references": "3"
+        },
+        {
+          "footnote_number": "4",
+          "footnote_text": "Ins. by the A.O. 1950.",
+          "footnote_references": "4"
+        },
+        {
+          "footnote_number": "5",
+          "footnote_text": "Subs., ibid., for \"Item 59\".",
+          "footnote_references": "5"
+        },
+        {
+          "footnote_number": "6",
+          "footnote_text": "Subs., ibid., for \"the Government of India Act, 1935\".",
+          "footnote_references": "6"
+        },
+        {
+          "footnote_number": "7",
+          "footnote_text": "For s. 28A ins. in the U.P., see the Co-operative Societies (U.P. Amendment) Act, 1944 (U.P. 1 of 1944) as continued in force by the U.P. Expiring Laws Continuance Act, 1948 (U.P. 13 of 1948).",
+          "footnote_references": "7"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government, by notification in the Official Gazette, may, in the case of any registered society or class of registered society, remit the income-tax payable in respect of the profits of the society, or of the dividends or other payments received by the members of the society on account of profits;",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Government, by notification in the Official Gazette, may, in the case of any registered society or class of registered society, remit—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the stamp-duty with which, under any law for the time being in force, instruments executed by or on behalf of a registered society or by an officer or member and relating to the business of such society, or any class of such instruments, are respectively chargeable, and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "any fee payable under the law of registration for the time being in force. In this sub-section \"Government\" in relation to stamp-duty in respect of bills of exchange, cheques, promissory notes, bills of lading, letters of credit, policies of insurance, transfer of shares, debentures, proxies and receipts, and in relation to any stamp-duty falling within entry 96 in List I in the Seventh Schedule to the Constitution, means the Central Government, and save as aforesaid means the State Government.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "29",
+      "section_heading": "Restrictions on loans",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "A registered society shall not make a loan to any person other than a member: Provided that, with the general or special sanction of the Registrar, a registered society may make loans to another registered society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Save with the sanction of the Registrar, a society with unlimited liability shall not lend money on the security of moveable property.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The State Government may, by general or special order, prohibit or restrict the lending of money on mortgage of immoveable property by any registered society or class of registered societies.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30",
+      "section_heading": "Restrictions on borrowing",
+      "section_text": "A registered society shall receive deposits and loans from persons who are not members only to such extent and under such conditions as may be prescribed by the rules or by-laws.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "31",
+      "section_heading": "Restrictions on other transactions with non-members",
+      "section_text": "Save as provided in sections 29 and 30, the transactions of a registered society with persons other than members shall be subject to such prohibitions and restrictions, if any, as the State Government may, by rules, prescribe.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "32",
+      "section_heading": "Investment of funds",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "A registered society may invest or deposit its funds—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "in the Government Savings Bank, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "in any of the securities specified in section 20 of the Indian Trusts Act, 1882 (2 of 1882), or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "in the shares or on the security of any other registered society, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "with any bank or person carrying on the business of banking approved for this purpose by the Registrar, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "in any other mode permitted by the rules.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Any investments or deposits made before the commencement of this Act which would have been valid if this Act had been in force are hereby ratified and confirmed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "33",
+      "section_heading": "Funds not to be divided by way of profit",
+      "section_text": "No part of the funds of a registered society shall be divided by way of bonus or dividend or otherwise among its members: Provided that after at least one-fourth of the net profits in any year have been carried to a reserve fund, payments from the remainder of such profits and from any profits of past years available for distribution may be made among the members to such extent and under such conditions as may be prescribed by the rules or by-laws: Provided also that in the case of a society with unlimited liability no distribution of profits shall be made without the general or special order of the State Government in this behalf.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "34",
+      "section_heading": "Contribution to charitable purpose",
+      "section_text": "Any registered society may, with the sanction of the Registrar, after one-fourth of the net profits in any year has been carried to a reserve fund, contribute an amount not exceeding ten per cent. of the remaining net profits to any charitable purpose, as defined in section 2 of the Charitable Endowments Act, 1890 (1 of 1890).",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "35",
+      "section_heading": "Inquiry by Registrar",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Registrar may of his own motion, and shall on the request of the Collector, or on the application of a majority of the committee, or of not less than one-third of the members, hold an inquiry or direct some person authorised by him by order in writing in this behalf to hold an inquiry into the constitution, working and financial condition of a registered society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "All officers and members of the society shall furnish such information in regard to the affairs of the society as the Registrar or the person authorised by the Registrar may require.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "36",
+      "section_heading": "Inspection of books of indebted society",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Registrar shall, on the application of a creditor of a registered society, inspect or direct some person authorised by him by order in writing in this behalf to inspect the books of the society: Provided that—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the applicant satisfies the Registrar that the debt is a sum then due, and that he has demanded payment thereof and has not received satisfaction within a reasonable time; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the applicant deposits with the Registrar such sum as security for the costs of the proposed inspection as the Registrar may require.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Registrar shall communicate the results of any such inspection to the creditor.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "37",
+      "section_heading": "Costs of inquiry",
+      "section_text": "Where an inquiry is held under section 35, or an inspection is made under section 36, the Registrar may apportion the costs, or such part of the costs as he may think right, between the society, the members or creditor demanding an inquiry or inspection, and the officers or former officers of the society.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "38",
+      "section_heading": "Recovery of costs",
+      "section_text": "Any sum awarded by way of costs under section 37 may be recovered, on application to a Magistrate having jurisdiction in the place where the person from whom the money is claimable actually and voluntarily resides or carries on business, by the distress and sale of any moveable property within the limits of the jurisdiction of such Magistrate belonging to such person.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "39",
+      "section_heading": "Dissolution",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "If the Registrar, after an inquiry has been held under section 35 or after an inspection has been made under section 36 or on receipt of an application made by three-fourths of the members of a registered society, is of opinion that the society ought to be dissolved, he may cancel the registration of the society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Any member of a society may, within two months from the date of an order made under sub-section (1), appeal from such order.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Where no appeal is presented within two months from the making of an order cancelling the registration of a society, the order shall take effect on the expiry of that period.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "Where an appeal is presented within two months, the order shall not take effect until it is formed by the appellate authority.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "The authority to which appeals under this section shall lie shall be the State Government: Provided that the State Government may, by notification in the Official Gazette, direct that appeals shall lie to such Revenue authority as may be specified in the notification.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "40",
+      "section_heading": "Cancellation of registration of society",
+      "section_text": "Where it is a condition of the registration of a society that it should consist of at least ten members, the Registrar may, by order in writing, cancel the registration of the society if at any time it is proved to his satisfaction that the number of the members has been reduced to less than ten.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "41",
+      "section_heading": "Effect of cancellation of registration",
+      "section_text": "Where the registration of a society is cancelled, the society shall cease to exist as a corporate body—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "in the case of cancellation in accordance with the provisions of section 39, from the date the order of cancellation takes effect;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "in the case of cancellation in accordance with the provisions of section 40, from the date of the order.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "42",
+      "section_heading": "Winding-up",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "This sub-section has been amended in its application to the C.P. and Berar by the C.P. and Berar Co-operative Societies Amendment and Liquidator's Orders Validation Act, 1945 (C.P. & B. 10 of 1945) as continued in force by the C.P. & Berar Expiring Laws Continuance and Amending Act, 1947 (C.P. & B. 48 of 1947).",
+          "footnote_references": "1"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "For sub-section (4A) which applies to the U.P., see the Co-operative Societies (Amendment) Act, 1919 (U.P. 3 of 1919).",
+          "footnote_references": "2"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "This sub-section has been modified in its application to the U.P., see ibid.",
+          "footnote_references": "1"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_text": "For s. 42A ins. in the C.P., see the Co-operative Societies (C.P. Amendment) Act, 1930 (C. P. 7 of 1930). For sections 42-B and 42-C ins. in the C.P. and Berar, see the following Acts as continued in force by the C.P. and Berar Act 48 of 1947:— 1. The C.P. and Berar Co-operative Societies (Amendment) Act, 1940 (C.P. & B. 5 of 1940); 2. The C.P. and Berar Co-operative Societies (Amendment) Act, 1941 (C.P. & B. 6 of 1941); and 3. The C.P. and Berar Co-operative Societies Amendment and Liquidators' Orders Validation Act, 1945 (C.P. & B. 10 of 1945).",
+          "footnote_references": "2"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Where the registration of a society is cancelled under section 39 or section 40, the Registrar may appoint a competent person to be liquidator of the society.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "A liquidator appointed under sub-section (1) shall have power—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "to institute and defend suits and other legal proceedings on behalf of the society by his name of office;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "to determine the contribution to be made by the members and past members of the society respectively to the assets of the society;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "to investigate all claims against the society and, subject to the provisions of this Act, to decide questions of priority arising between claimants;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "to determine by what persons and in what proportions the costs of the liquidation are to be borne; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "to give such directions in regard to the collection and distribution of the assets of the society, as may appear to him to be necessary for winding-up the affairs of the society.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Subject to any rules, a liquidator appointed under this section shall, in so far as such powers are necessary for carrying out the purposes of this section, have power to summon and enforce the attendance of witnesses and to compel the production of documents by the same means and (so far as may be) in the same manner as is provided in the case of a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908).",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "Where an appeal from any order made by a liquidator under this section is provided for by the rules, it shall lie to the Court of the District Judge.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "Orders made under this section shall, on application, be enforced as follows:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "when made by a liquidator, by any Civil Court having local jurisdiction in the same manner as a decree of such Court;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "when made by the Court of the District Judge on appeal, in the same manner as a decree of such Court made in any suit pending therein.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "Save in so far as is hereinbefore expressly provided no Civil Court shall have any jurisdiction in respect of any matter connected with the dissolution of a registered society under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "43",
+      "section_heading": "Rules",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "3",
+          "footnote_text": "For rules, see different local Rules and Orders.",
+          "footnote_references": "3"
+        },
+        {
+          "footnote_number": "1",
+          "footnote_text": "Ins. by Act 4 of 1986, s. 2 and the schedule (w.e.f. 15-5-1986).",
+          "footnote_references": "1"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The State Government may, for the whole or any part of the State and for any registered society or class of such societies, make rules to carry out the purposes of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular and without prejudice to the generality of the foregoing power, such rules may—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "subject to the provisions of section 5, prescribe the maximum number of shares or portion of the capital of a society which may be held by a member;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "prescribe the forms to be used and the conditions to be complied with in the making of applications for the registration of a society and the procedure in the matter of such applications;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "prescribe the matters in respect of which a society may or shall make by-laws and for the procedure to be followed in making, altering and abrogating by-laws, and the conditions to be satisfied prior to such making, alteration or abrogation;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "prescribe the conditions to be complied with by persons applying for admission or admitted as members, and provide for the election and admission of members, and the payment to be made and the interests to be acquired before the exercise of the right of membership;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "regulate the manner in which funds may be raised by means of shares or debentures or otherwise;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "provide for general meetings of the members and for the procedure at such meetings and the powers to be exercised by such meetings;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(g)",
+              "clause_text": "provide for the appointment, suspension and removal of the members of the committee and other officers, and for the procedure at meetings of the committee, and for the powers to be exercised and the duties to be performed by the committee and other officers;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(h)",
+              "clause_text": "prescribe the accounts and books to be kept by a society and provide for the audit of such accounts and the charges, if any, to be made for such audit, and for the periodical publication of a balance-sheet showing the assets and liabilities of a society;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(i)",
+              "clause_text": "prescribe the returns to be submitted by a society to the Registrar and provide for the persons by whom and the form in which such returns shall be submitted;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(j)",
+              "clause_text": "provide for the person by whom and the form in which copies of entries in books of societies may be certified;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(k)",
+              "clause_text": "provide for the formation and maintenance of a register of members and, where the liability of the members is limited by shares, of a register of shares;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(l)",
+              "clause_text": "provide that any dispute touching the business of a society between members or past members of the society or persons claiming through a member or past member or between a member or past member or persons so claiming and the committee or any officer shall be referred to the Registrar for decision or, if he so directs, to arbitration, and prescribe the mode of appointing an arbitrator or arbitrators and the procedure to be followed in proceedings before the Registrar or such arbitrator or arbitrators, and the enforcement of the decisions of the Registrar or the awards of arbitrators;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(m)",
+              "clause_text": "provide for the withdrawal and expulsion of members and for the payments, if any to he made to members who withdraw or are expelled and for the liabilities of past members;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(n)",
+              "clause_text": "provide for the mode in which the value of a deceased member's interest shall be ascertained, and for the nomination of a person to whom such interest may be paid or transferred;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(o)",
+              "clause_text": "prescribe the payments to be made and the conditions to be complied with by members applying for loans, the period for which loans may be made, and the amount which may be lent, to an individual member;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(p)",
+              "clause_text": "provide for the formation and maintenance of reserve funds, and the objects to which such funds may be applied, and for the investment of any funds under the control of the society;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(q)",
+              "clause_text": "prescribe the extent to which a society may limit the number of its members;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(r)",
+              "clause_text": "prescribe the conditions under which profits may be distributed to the members of a society with unlimited liability and the maximum rate of dividend which may be paid by societies;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(s)",
+              "clause_text": "subject to the provisions of section 39, determine in what cases an appeal shall lie from the orders of the Registrar, and prescribe the procedure to be followed in presenting and disposing of such appeals; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(t)",
+              "clause_text": "prescribe the procedure to be followed by a liquidator appointed under section 42, and the cases in which an appeal shall lie from the order of such liquidator.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The State Government may delegate, subject to such conditions, if any, as it thinks fit, all or any of its powers to make rules under this section to any authority specified in the order of delegation.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The power to make rules conferred by this section is subject to the condition of the rules being made after previous publication.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "All rules made under this section shall be published in the Official Gazette and on such publication shall have effect as if enacted in this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "44",
+      "section_heading": "Recovery of sums due to Government",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "All sums due from a registered society or from an officer or member or past member of a registered society as such to the Government, including any costs awarded to the Government under section 37, may be recovered in the same manner as arrears of land-revenue.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Sums due from a registered society to Government and recoverable under sub-section (1) may be recovered, firstly, from the property of the society; secondly, in the case of a society of which the liability of the members is limited, from the members subject to the limit of their liability; and, thirdly; in the case of other societies, from the members.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "45",
+      "section_heading": "Power to exempt societies from conditions as to registration",
+      "section_text": "Notwithstanding anything contained in this Act, the State Government may, by special order in each case and subject to such conditions, if any, as it may impose, exempt any society from any of the requirements of this Act as to registration.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "46",
+      "section_heading": "Power to exempt registered societies from provisions of the Act",
+      "section_text": "The State Government may, by general or special order, exempt any registered society from any of the provisions of this Act or may direct that such provisions shall apply to such society with such modifications as may be specified in the order.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "47",
+      "section_heading": "Prohibition of the use of the word \"co-operative\"",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No person other than a registered society shall trade or carry on business under any name or title of which the word \"co-operative\" is part without the sanction of the State Government: Provided that nothing in this section shall apply to the use by any person or his successor in interest of any name or title under which he traded or carried on business at the date on which this Act comes into operation.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Whoever contravenes the provisions of this section shall be punishable with fine which may extend to fifty rupees, and in the case of a continuing offence with further fine of five rupees for each day on which the offence is continued after conviction therefor.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "48",
+      "section_heading": "Indian Companies Act, 1882, not to apply",
+      "section_text": "The provisions of the Indian Companies Act, 1882 (6 of 1882), shall not apply to registered societies.",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "See now the Companies Act, 1956 (1 of 1956).",
+          "footnote_references": "1"
+        }
+      ],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "49",
+      "section_heading": "Saving of existing societies",
+      "section_text": "Every society now existing which has been registered under the Co-operative Credit Societies Act, 1904 (10 of 1904), shall be deemed to be registered under this Act, and its by-laws shall, so far as the same are not inconsistent with the express provisions of this Act, continue in force until altered or rescinded.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "50",
+      "section_heading": "[Repealed.]",
+      "section_text": "Rep. by the Second Repealing and Amending Act, 1914 (17 of 1914), s. 3and the second Schedule.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    }
+  ],
+  "act_schedules": []
+}
