@@ -1,0 +1,987 @@
+{
+  "act_title": "THE BRAHMAPUTRA BOARD ACT, 1980",
+  "act_number": "ACT NO. 46 OF 1980",
+  "act_enactment_date": "[1st September, 1980.]",
+  "act_preamble": "An Act to provide for the establishment of a Board for the planning and integrated implementation of measures for the control of floods and bank erosion in the Brahmaputra Valley and for matters connected therewith. BE it enacted by Parliament in the Thirty-first Year of the Republic of India as follows:—",
+  "preamble_footnotes": [],
+  "act_sections": [
+    {
+      "section_number": "1",
+      "section_heading": "Short title and commencement",
+      "section_text": "",
+      "section_footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_text": "31st December, 1981, vide notification No. G.S.R. 677(E), dated 28th December, 1981, see Gazette of India, Extraordinary, Part II, sec. 3(i).",
+          "footnote_references": "1"
+        }
+      ],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "This Act may be called the Brahmaputra Board Act, 1980.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "2",
+      "section_heading": "Declaration as to expediency of control by the Union",
+      "section_text": "It is hereby declared that it is expedient in the public interest that the Central Government should take under its control the regulation and development of the inter-State Brahmaputra river valley to the extent hereinafter provided.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "3",
+      "section_heading": "Definitions",
+      "section_text": "In this Act, unless the context otherwise requires,—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "\"Board\" means the Brahmaputra Board established under section 4;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "\"Brahmaputra Valley\" means the inter-State Brahmaputra river valley as demarcated under section 11;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "\"Fund\" means the Brahmaputra Board Fund constituted under section 19;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(d)",
+          "clause_text": "\"Master Plan\" means the Master Plan for the control of floods, bank erosion and improvement of drainage in the Brahmaputra Valley prepared under section 12 and includes, where it is prepared in parts, each such part;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(e)",
+          "clause_text": "\"member\" means a member of the Board;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(f)",
+          "clause_text": "\"prescribed\" means prescribed by rules made under this Act;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(g)",
+          "clause_text": "\"regulations\" means regulations made by the Board under this Act;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(h)",
+          "clause_text": "\"rules\" means rules made by the Central Government under this Act;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(i)",
+          "clause_text": "\"State Government\", in relation to a Union territory, means the administrator thereof appointed under article 239 of the Constitution.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "4",
+      "section_heading": "Establishment and incorporation of the Brahmaputra Board",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be established for the purposes of this Act a Board, to be called the Brahmaputra Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Board shall be a body corporate by the name aforesaid, having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract and shall by the said name sue and be sued.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Board shall consist of the following members, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "a Chairman and a Vice-Chairman to be appointed by the Central Government;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the General Manager of the Board and the Financial Adviser to the Board, ex officio;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "a member each to represent respectively the Governments of Assam, Meghalaya, Nagaland, Manipur and Tripura and the Administrations of Arunachal Pradesh and Mizoram, and the North-Eastern Council constituted under section 3 of the North-Eastern Council Act, 1971 (84 of 1971), to be appointed by the Central Government;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "a member each to represent respectively the Ministries of the Central Government dealing with agriculture, irrigation, finance, power and transport to be appointed by the Central Government;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "a member each to represent respectively the Central Water Commission, the Central Electricity Authority, the Geological Survey of India, the India Meteorological Department, to be appointed by the Central Government.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "If any member, for infirmity or otherwise, is incapable of carrying out his duties or is absent on leave otherwise than in circumstances not involving the vacation of his appointment, the Central Government may appoint another person to act in his place.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "Any officer of the Central Government, not being a member of the Board, if deputed by that Government in this behalf, shall have the right to attend the meetings of the Board and take part in the proceedings thereof, but shall not be entitled to vote.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "The Board may associate with itself, in such manner and for such purposes as may be determined by regulations, any person whose assistance or advice it may desire in complying with any of the provisions of this Act and a person so associated shall have the right to take part in the discussions of the Board relevant to the purpose for which he has been associated, but shall not be entitled to vote.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(7)",
+          "subsection_text": "No act or proceeding of the Board shall be invalidated merely by reason of—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "any vacancy in, or any defect in the constitution of, the Board; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "any defect in the appointment of a person acting as a member of the Board; or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "any irregularity in the procedure of the Board not affecting the merits of the case.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(8)",
+          "subsection_text": "Subject to any rules made under this Act, the Board may constitute a Standing Committee consisting of the General Manager of the Board, Financial Adviser to the Board and three other members of the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(9)",
+          "subsection_text": "The Standing Committee constituted under sub-section (8) shall perform, exercise and discharge such of the functions, powers and duties of the Board as may be prescribed or as may be delegated to it by the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "5",
+      "section_heading": "Conditions of service of members",
+      "section_text": "The term of office of the members (other than the ex officio members) and other conditions of service of the members shall be such as may be prescribed.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "6",
+      "section_heading": "Powers of Chairman and Vice-Chairman",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Chairman shall, in addition to presiding over the meetings of the Board, exercise and discharge such powers and duties of the Board as may be delegated to him by the Board and such other powers and duties as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Vice-Chairman of the Board shall exercise and discharge such of the powers and duties of the Chairman as may be prescribed or as may be delegated to him by the Chairman.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "7",
+      "section_heading": "General Manager",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government shall appoint the General Manager of the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The terms and conditions of service of the General Manager shall be such as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Subject to the general superintendence and control of the Board and the Chairman of the Board, the General Manager shall be the Chief Executive Authority of the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The General Manager shall exercise and discharge such of the powers and duties of the Chairman as may be prescribed or, as may be delegated to him by the Chairman, and such other powers and duties as may be prescribed by rules or determined by regulations.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "8",
+      "section_heading": "Financial Adviser",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government shall appoint the Financial Adviser to the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The terms and conditions of service of the Financial Adviser shall be such as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "9",
+      "section_heading": "Chief Engineers, Secretary and other officers",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government shall appoint—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "two Chief Engineers to assist the General Manager of the Board; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the Secretary to the Board.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Board may appoint such other officers and employees as it considers necessary for the efficient discharge of its functions under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The terms and conditions of service of the Chief Engineers, the Secretary and other officers and employees of the Board shall be such as may be determined by regulations.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "10",
+      "section_heading": "Advisory Committees",
+      "section_text": "Subject to any rules made in this behalf, the Board may from time to time constitute such Advisory Committees as may be necessary for the efficient discharge of its functions.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "11",
+      "section_heading": "Limits of the Brahmaputra Valley",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "As soon as may be after the commencement of this Act, the Central Government shall, by notification in the Official Gazette, demarcate the limits of the Brahmaputra Valley for the purposes of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Board shall perform such of its functions and exercise such of the powers within such areas in the Brahmaputra Valley as the Central Government may, by notification in the Official Gazette, specify from time to time: Provided that before issuing any notification in respect of any area under this sub-section, the Central Government shall consult the Government of the State within which such area is situated.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "12",
+      "section_heading": "Master Plan for the control of floods, etc., in the Brahmaputra Valley",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Subject to the other provisions of this Act and the rules, the Board shall carry out surveys and investigations in the Brahmaputra Valley and prepare a Master Plan for the control of floods and bank erosion and improvement of drainage in the Brahmaputra Valley: Provided that the Board may prepare the Master Plan in parts with reference to different areas of the Brahmaputra Valley or with reference to different matters relating to such areas and may, as often as it considers necessary so to do, revise the Master Plan or any part thereof.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In preparing the Master Plan, the Board shall have regard to the development and utilization of the water resources of the Brahmaputra Valley for irrigation, hydro power, navigation and other beneficial purposes and shall, as far as possible, indicate in such plan the works and other measures which may be undertaken for such development.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Master Plan shall be submitted to the Central Government as soon as may be after it has been prepared or, as the case may be, revised and the Central Government shall, after consultation with the State Governments concerned, approve the same subject to such modifications as it may deem fit.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "13",
+      "section_heading": "Other functions of the Board",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Board shall also—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "prepare detailed reports and estimates in respect of the dams and other projects proposed in the Master Plan as approved by the Central Government and indicate in each case the cost attributable to different purposes or uses;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "draw up standards and specifications for the construction, operation and maintenance of such dams and other projects;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "construct, with the approval of the Central Government, multi-purpose dams and works connected therewith proposed in the Master Plan as approved by the Central Government and maintain and operate such dams and works;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "prepare, in consultation with the State Governments concerned, a phased programme for the construction by the State Governments of all dams and other projects proposed in the Master Plan as approved by the Central Government other than those referred to in clause (c);",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "perform any other such function which may be prescribed for the proper implementation of this Act;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "perform such other functions as are supplemental, incidental or consequential to the functions specified in section 12 or in clauses (a) to (d), or prescribed under clause (e), of this sub-section.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Notwithstanding anything contained in clause (d) of sub-section (1), the Board may, with the prior approval of the Central Government, construct any dam or project referred to in that clause if it is satisfied, having regard to the cost of construction, and the expertise required for the construction, of any such dam or project, that it is expedient so to do.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "The Board may maintain and operate any dam or project referred to in sub-section (2) for so long as it deems it necessary so to do. Explanation.—For the purposes of this section, \"multi-purpose dam\" means a dam which is constructed for purposes of flood control and for other purposes.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "14",
+      "section_heading": "Conditions subject to which the Board may perform its functions",
+      "section_text": "The performance by the Board of the functions specified in, or prescribed under, sections 12 and 13 shall be subject to the following conditions, namely:—",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [
+        {
+          "clause_number": "(a)",
+          "clause_text": "no multi-purpose dam referred to in clause (c) of sub-section (1) of section 13 shall be constructed by the Board unless the State Governments concerned make available the land required for the purpose;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(b)",
+          "clause_text": "no dam or project referred to in clause (d) of sub-section (1) of section 13 shall be constructed by the Board unless the State Governments concerned make available free of cost the land required for its execution and also undertake to take over its maintenance on and from the expiry of such period after its completion as may be specified by the Board;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(c)",
+          "clause_text": "no dam or other works shall be undertaken by the Board unless the State Governments concerned agree to provide all such assistance as may be required for the construction , operation and maintenance thereof;",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        },
+        {
+          "clause_number": "(d)",
+          "clause_text": "such other conditions (including conditions relating to the sharing by the State Governments concerned of the whole or any part of cost of dam or other works constructed by the Board) as may be specified by the Central Government by general or special order published in the Official Gazette: Provided that before undertaking the construction of any such dam or other works, the Board shall apprise the State Governments concerned of the cost of construction of, and the benefits likely to accrue from, such dam or other works and the proportion in which the State Governments shall share such cost and benefits: Provided further that if the Board and the State Governments are unable to agree in respect of the sharing of the cost and benefits of any such dam or other works, the Board shall refer the matter to the Central Government for decision and the Central Government shall decide such matter after consulting the State Governments and the decision of the Central Government shall be final.",
+          "clause_footnotes": [],
+          "sub_clauses": []
+        }
+      ],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "15",
+      "section_heading": "General powers of the Board",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "Subject to the provisions of this Act and the rules, the Board shall have the power to do anything which may be necessary or expedient for the purpose of performing its functions under this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Without prejudice to the generality of the provisions of sub-section (1), the Board may—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "publish statistics or other information relating to various aspects of flood control, bank erosion and drainage in the Brahmaputra Valley;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "require the State Governments concerned to furnish to it information relating to the measures undertaken by them for the control of floods and bank erosion and improvement of drainage in the Brahmaputra Valley, topographical, meteorological and hydrological and other related data and such other information as the Board may require for the performance of its functions under this Act.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "16",
+      "section_heading": "Forwarding of, and Consultation with respect to, plans, etc., prepared by the Board",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Board shall forward copies of the Master Plan, reports, estimates, standards and specifications prepared by it to the Central Government and the State Governments concerned.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Central Government and the State Governments concerned may consult the Board with regard to any matters connected with, or arising out of, such plan, reports, estimates or standards and specifications.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "If, for any reason, a State Government considers it necessary to execute any project for the control of floods and bank erosion and drainage work in the Brahmaputra Valley and such project is not envisaged in the Master Plan or such project is intended to be executed by the State Government in a manner not in conformity with the Master Plan, the State Government may consult the Board with regard to the execution of the project and the Board may make such recommendations as it may deem fit: Provided that nothing contained in this sub-section shall be construed as imposing any requirement on any State Government to consult the Board with regard to the execution of any works which have become urgently necessary by reason of any emergency or other extraordinary circumstances.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "17",
+      "section_heading": "Directions and instructions by Central Government",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government may, from time to time, issue to the Board such directions and instructions as it may deem necessary for the efficient administration of this Act and the Board shall carry out such directions and instructions.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular and without prejudice to the generality of the provisions of sub-section (1), the Central Government may, while granting (whether directly or through the Board and after due appropriation made by Parliament by law in that behalf) any financial assistance, by way of loans or grants for the execution by any State Government of any dam or other project referred to in clause (d) of sub-section (1) of section 13 after obtaining the approval of the State Government in this behalf, direct the Board to exercise all such powers as may be necessary for satisfying itself that the works are being executed in accordance with the standards and specifications laid down therefor by the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "18",
+      "section_heading": "Grants and loans by Central Government",
+      "section_text": "The Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Board such sums of money as the Central Government may consider necessary.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "19",
+      "section_heading": "Constitution of Brahmaputra Board Fund",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "There shall be constituted a Fund to be called the Brahmaputra Board Fund and there shall be credited thereto the sums paid to the Board by the Central Government or by any State Government and all other sums received by the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Fund shall be applied—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "for meeting the salary, allowances and other remuneration of the members, officers and other employees of the Board and other administrative expenses of the Board;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "for meeting the expenditure on surveys and investigations undertaken by the Board;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "for meeting the cost of construction, operation and maintenance of projects undertaken by the Board;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "for meeting the other expenses of the Board in the discharge of its functions under this Act ; and",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "if any sums are received by the Board under sub-section (2) of section 17, for the payment of such sums to the State Governments concerned.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "20",
+      "section_heading": "Budget",
+      "section_text": "The Board shall prepare, in such form and at such time each year as may be prescribed, its budget for the next financial year, showing the estimated expenditure, the amount of expenditure which any State Government has undertaken to provide for, and forward the same to the Central Government.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "21",
+      "section_heading": "Annual report",
+      "section_text": "The Board shall prepare, in such form and at such time each year as may be prescribed, its annual report, giving a full account of its activities during the previous year, and forward copies thereof to the Central Government and that Government shall cause the same to be laid before each House of Parliament.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "22",
+      "section_heading": "Accounts and audit",
+      "section_text": "The accounts of the Board shall be maintained and audited in such manner as may, in consultation with the Comptroller and Auditor-General of India, be prescribed.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "23",
+      "section_heading": "Disputes between the Board and the State Governments",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "If any dispute arises between the Board and any State Government regarding any matter covered by this Act or touching or arising out of it, it shall be referred to the Central Government.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Central Government shall endeavour to resolve the dispute by negotiations or conciliation in such manner as may be prescribed.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "Notwithstanding anything contained in sub-section (2), if the Central Government considers, whether before initiating action for resolving a dispute by negotiations or conciliation or at any stage after initiating such action, that the dispute is of such a nature that it is necessary or expedient to refer it to arbitration, the Central Government shall , in such form and in such manner as may be prescribed, refer the matter in dispute to an arbitrator who shall be appointed by the Chief Justice of India.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "The arbitrator may appoint two or more persons as assessors to assist him in the proceedings before him.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "The decision of the arbitrator shall be final and binding on the parties to the dispute and shall be given effect to by them.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(6)",
+          "subsection_text": "Nothing in the Arbitration Act, 1940 (10 of 1940) shall apply to any arbitration under this section.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "24",
+      "section_heading": "Removal, etc., of members",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government may remove from the Board any member who, in its opinion,—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "refuses to act,",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "has become incapable to act,",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "has so abused his office as a member so as to render his continuance on the Board detrimental to the interests of the public, or",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "is otherwise unsuitable to continue as a member.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "The Central Government may suspend any member pending an inquiry against him.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(3)",
+          "subsection_text": "No order or removal under this section shall be made unless the member concerned has been given an opportunity to submit his explanation to the Central Government and when such order is passed, the seat of the member removed shall be declared vacant.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(4)",
+          "subsection_text": "A member who has been removed under this section shall not be eligible for reappointment as a member or in any capacity under the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(5)",
+          "subsection_text": "If the Board fails to carry out its functions or directions issued by the Central Government under this Act, the Central Government shall have power to reconstitute the Board.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "25",
+      "section_heading": "Power to enter",
+      "section_text": "Subject to any rules made in this behalf, any officer of the Board generally or specially authorised by the Board in this behalf, may, at all reasonable times, enter upon any land or premises and there do such things as may be reasonably necessary for the purpose of lawfully carrying out any of its works or of making any survey, examination or investigation, preliminary or incidental to the exercise of powers or the performance of the functions by the Board under this Act: Provided that no such officer shall enter any building or any enclosed court or garden attached to a dwelling house, unless with the consent of the occupier thereof, without previously giving such occupier at least seven days' notice in writing of his intention to do so.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "26",
+      "section_heading": "Members, officers and employees of the Board to be public servants",
+      "section_text": "All members, officers and employees of the Board shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "27",
+      "section_heading": "Protection of action taken in good faith",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "No suit prosecution or other legal proceedings shall lie against the Government or any officer of the Government or any member, officer or employee of the Board for anything which is in good faith done or intended to be done under this Act or the rules or regulations.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "No suit or other legal proceedings shall lie against the Board for any damage caused, or likely to be caused by anything in good faith done or purported to be done under this Act or the rules or regulations, and in particular, it shall not be the responsibility of the Board to provide for relief measures necessitated by floods or by breaches and failures of works.",
+          "subsection_footnotes": [],
+          "clauses": []
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "28",
+      "section_heading": "Power to make rules",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "Without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the matters with respect to the standing committee of the Board referred to in sub-section (8) and (9) of section 4;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the term of office of members (other than the ex officio members), and other conditions of service of the members, of the Board under section 5;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the powers and duties of the Chairman and Vice-Chairman under section 6;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "the terms and conditions of service and the powers and duties of the General Manager under section 7;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(e)",
+              "clause_text": "the terms and conditions of service of the Financial Adviser under section 8;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(f)",
+              "clause_text": "the conditions and restrictions with respect to carrying out surveys and investigations and preparation of a Master Plan under sub-section (1) of section 12 and other matters relating thereto;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(g)",
+              "clause_text": "the additional functions of the Board under clause (e) of sub-section (1) of section 13;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(h)",
+              "clause_text": "the conditions and restrictions with respect to the general power of the Board under sub-section (1) of section 15 and other matters relating thereto;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(i)",
+              "clause_text": "the form in which, and the time when, the Board shall prepare its budget under section 20 and its annual report under section 21, and the manner in which the accounts of the Board shall be maintained and audited under section 22;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(j)",
+              "clause_text": "the manner in which the Central Government shall endeavour to resolve, under sub-section (2) of section 23, the disputes referred to therein and the form and manner in which such disputes may be referred, under sub-section (3) of that section, to arbitration;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(k)",
+              "clause_text": "the conditions and restrictions with respect to the exercise of the power to enter under section 25 and other matters relating thereto;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(l)",
+              "clause_text": "any other matter which is to be, or may be, prescribed or in respect of which provision is to be, or may be, made by rules.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "29",
+      "section_heading": "Power to make regulations",
+      "section_text": "",
+      "section_footnotes": [],
+      "subsections": [
+        {
+          "subsection_number": "(1)",
+          "subsection_text": "The Board may, with the previous approval of the Central Government, by notification in the Official Gazette, make regulations consistent with this Act and the rules generally to carry out the purposes of this Act.",
+          "subsection_footnotes": [],
+          "clauses": []
+        },
+        {
+          "subsection_number": "(2)",
+          "subsection_text": "In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—",
+          "subsection_footnotes": [],
+          "clauses": [
+            {
+              "clause_number": "(a)",
+              "clause_text": "the manner in which, and the purposes for which, the Board may associate with itself any person under sub-section (6) of section 4;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(b)",
+              "clause_text": "the powers and duties of the General Manager of the Board which may be determined under sub-section (4) of section 7;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(c)",
+              "clause_text": "the terms and conditions of service of the Chief Engineers, the Secretary and other officers and employees of the Board under sub-section (3) of section 9;",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "(d)",
+              "clause_text": "any other matter in respect of which provision is to be or may be made by regulations.",
+              "clause_footnotes": [],
+              "sub_clauses": []
+            }
+          ]
+        }
+      ],
+      "clauses": [],
+      "section_state_ammendments": []
+    },
+    {
+      "section_number": "30",
+      "section_heading": "Rules and regulations to be laid before Parliament",
+      "section_text": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.",
+      "section_footnotes": [],
+      "subsections": [],
+      "clauses": [],
+      "section_state_ammendments": []
+    }
+  ],
+  "act_schedules": []
+}
